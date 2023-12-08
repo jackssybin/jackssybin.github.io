@@ -752,3 +752,404 @@
           url: https://developer.aliyun.com/learning/roadmap/ai
           logo: aliyun-icon.png
           description: 阿里云作为国内领先的云服务，其开发者社区提供了一条完整的人工智能学习路线，旨在帮助用户从入门到进阶掌握人工智能领域的知识和技能。该路线包含了30门在线课程和22个实战案例，分为以下5大学习阶段： 
+    - term: AI提示指令
+      links:
+        - title: flowgpt
+          url: https://zhuanlan.zhihu.com/p/654088195
+          logo: flowgpt-icon.png
+          description: chatgpt指令大全            
+- taxonomy: AI学习
+  icon: fas fa-pencil-alt fa-lg
+  list:
+    - term: 热门工具
+      links:
+        - title: ChatGPT
+          url: https://ai-bot.cn/sites/30.html
+          logo: ChatGPT.png
+          description: OpenAI旗下AI对话工具
+
+        - title: GPT-4
+          url: https://ai-bot.cn/sites/49.html
+          logo: GPT-4.png
+          description: OpenAI旗下最新的GPT-4模型
+
+        - title: Midjourney
+          url: https://ai-bot.cn/sites/56.html
+          logo: Midjourney.png
+          description: AI图像和插画生成工具
+
+        - title: 文心一言
+          url: https://ai-bot.cn/sites/669.html
+          logo: 文心一言.png
+          description: 百度推出的基于文心大模型的AI对话互动工具
+
+        - title: Stable Diffusion
+          url: https://ai-bot.cn/sites/123.html
+          logo: Stable Diffusion.png
+          description: StabilityAI推出的文本到图像生成AI
+
+        - title: 文心一格
+          url: https://ai-bot.cn/sites/610.html
+          logo: 文心一格.png
+          description: AI艺术和创意辅助平台
+
+        - title: 堆友AI
+          url: https://d.design/?from=aibot
+          logo: 堆友AI.png
+          description: 阿里巴巴出品的免费AI绘画和出图神器
+
+        - title: 美图设计室
+          url: https://www.x-design.com/?channel=10026
+          logo: 美图设计室.png
+          description: AI图像创作和设计平台
+
+        - title: 一帧秒创
+          url: https://ai-bot.cn/sites/1880.html
+          logo: 一帧秒创.png
+          description: 简单好用的AI智能视频创作平台
+
+        - title: 触手AI绘画
+          url: https://ai-bot.cn/sites/5198.html
+          logo: 触手AI绘画.png
+          description: 免费专业的AI绘画/模型/分享平台
+
+        - title: TreeMind树图
+          url: https://shutu.cn/?from=aibot 
+          logo: TreeMind树图.png
+          description: 新一代AI智能思维导图
+
+        - title: 魔音工坊
+          url: https://www.moyin.com/?promottype=WZ_aibot
+          logo: 魔音工坊.png
+          description: AI配音软件，轻松配出媲美真人的声音
+
+- taxonomy: AI学习
+  icon: fas fa-pencil-alt fa-lg
+  list:
+    - term: 最新收录
+      links:
+        - title: JetBrains AI
+          url: https://ai-bot.cn/sites/6557.html
+          logo: JetBrains AI.png
+          description: JetBrains推出的AI编程开发助手
+
+        - title: 知犀AI
+          url: https://ai-bot.cn/sites/6551.html
+          logo: 知犀AI.png
+          description: 知犀推出的AI思维导图生成工具
+
+        - title: 快转字幕
+          url: https://ai-bot.cn/sites/6544.html
+          logo: 快转字幕.png
+          description: AI语音视频转文字和字幕的工具
+
+        - title: 代码小浣熊Raccoon
+          url: https://ai-bot.cn/sites/6519.html
+          logo: 代码小浣熊Raccoon.png
+          description: 商汤科技推出的智能AI编程助手
+
+        - title: PMAI
+          url: https://ai-bot.cn/sites/6509.html
+          logo: PMAI.png
+          description: 面向产品经理的AI助手
+
+        - title: 新华妙笔
+          url: https://ai-bot.cn/sites/6498.html
+          logo: 新华妙笔.png
+          description: 新华社推出的AI公文写作平台
+
+- taxonomy: AI学习
+  icon: fas fa-pencil-alt fa-lg
+  list:
+    - term: emptyGroup
+      links:
+        - title: Midjourney
+          url: https://ai-bot.cn/sites/56.html
+          logo: Midjourney.png
+          description: AI图像和插画生成工具
+
+        - title: Stable Diffusion
+          url: https://ai-bot.cn/sites/123.html
+          logo: Stable Diffusion.png
+          description: StabilityAI推出的文本到图像生成AI
+
+        - title: Bing Image Creator
+          url: https://ai-bot.cn/sites/912.html
+          logo: Bing Image Creator.png
+          description: 微软必应推出的基于DALL·E的AI图像生成工具
+
+        - title: 标小智Logo生成
+          url: https://www.logosc.cn/?utm_source=ai-bot.cn
+          logo: 标小智Logo生成.png
+          description: 人工智能AI生成Logo设计工具
+
+        - title: Upscayl
+          url: https://ai-bot.cn/sites/1531.html
+          logo: Upscayl.png
+          description: 免费开源的AI图片无损放大工具
+
+        - title: Ribbet.ai
+          url: https://ai-bot.cn/sites/693.html
+          logo: Ribbet.ai.png
+          description: 免费的多功能AI图片处理工具箱
+
+        - title: remove.bg
+          url: https://ai-bot.cn/sites/6.html
+          logo: remove.bg.png
+          description: 强大的AI图片背景移除工具
+
+        - title: ARC
+          url: https://ai-bot.cn/sites/678.html
+          logo: ARC.png
+          description: 腾讯旗下ARC实验室推出的免费AI图片处理工具
+
+        - title: 文心一格
+          url: https://ai-bot.cn/sites/610.html
+          logo: 文心一格.png
+          description: AI艺术和创意辅助平台
+
+        - title: 通义万相
+          url: https://ai-bot.cn/sites/3400.html
+          logo: 通义万相.png
+          description: 阿里最新推出的AI绘画创作模型
+
+        - title: 造梦日记
+          url: https://ai-bot.cn/sites/2382.html
+          logo: 造梦日记.png
+          description: AI一下，妙笔生画
+
+        - title: 美图AI文生图
+          url: https://ai-bot.cn/sites/2433.html
+          logo: 美图AI文生图.png
+          description: 美图推出的AI文本生成图片的工具
+
+        - title: Dreamina
+          url: https://ai-bot.cn/sites/6353.html
+          logo: Dreamina.png
+          description: 抖音旗下推出的AI图片创作工具
+
+        - title: 秒画
+          url: https://ai-bot.cn/sites/4749.html
+          logo: 秒画.png
+          description: 商汤科技推出的免费AI作画和图片生成平台
+
+        - title: 简单AI
+          url: https://ai-bot.cn/sites/4009.html
+          logo: 简单AI.png
+          description: 搜狐最新推出的AI图片生成平台
+
+        - title: 触手AI绘画
+          url: https://ai-bot.cn/sites/5198.html
+          logo: 触手AI绘画.png
+          description: 免费专业的AI绘画/模型/分享平台
+
+        - title: WHEE
+          url: https://ai-bot.cn/sites/2976.html
+          logo: WHEE.png
+          description: 美图最新推出的AI图片和绘画创作生成平台
+
+        - title: 堆友AI反应堆
+          url: https://ai-bot.cn/sites/3382.html
+          logo: 堆友AI反应堆.png
+          description: 阿里旗下堆友推出的多风格AI绘画生成器
+
+        - title: LiblibAI·哩布哩布AI
+          url: https://ai-bot.cn/sites/6474.html
+          logo: LiblibAI·哩布哩布AI.png
+          description: 国内领先的AI图像创作平台和模型分享社区
+
+        - title: 创客贴AI画匠
+          url: https://ai-bot.cn/sites/1818.html
+          logo: 创客贴AI画匠.png
+          description: 创客贴推出的AI艺术画生成工具
+
+        - title: 网易AI创意工坊
+          url: https://ai-bot.cn/sites/4212.html
+          logo: 网易AI创意工坊.png
+          description: 网易云课堂推出的AI作画平台，在线使用Stable Diffusion出图
+
+        - title: 6pen Art
+          url: https://ai-bot.cn/sites/2342.html
+          logo: 6pen Art.png
+          description: 面包多团队推出的从文本描述生成绘画艺术作品
+
+        - title: Adobe Firefly
+          url: https://ai-bot.cn/sites/726.html
+          logo: Adobe Firefly.png
+          description: Adobe最新推出的AI图片生成工具
+
+        - title: 画宇宙
+          url: https://ai-bot.cn/sites/2505.html
+          logo: 画宇宙.png
+          description: 人工智能AI作画网站
+
+        - title: Visual Electric
+          url: https://ai-bot.cn/sites/6463.html
+          logo: Visual Electric.png
+          description: 专业的高质量AI图像创作工具
+
+        - title: Pic Copilot
+          url: https://ai-bot.cn/sites/6245.html
+          logo: Pic Copilot.png
+          description: 阿里国际推出的AI商品营销图工具
+
+        - title: Imagine with Meta
+          url: https://ai-bot.cn/sites/6492.html
+          logo: Imagine with Meta.png
+          description: Meta最新推出的在线AI图像生成器
+
+        - title: 图查查
+          url: https://ai-bot.cn/sites/4177.html
+          logo: 图查查.png
+          description: 360推出的AI作图平台，提供智能抠图、智能消除、智能放大、智能配图等功能
+
+        - title: Freepik AI Image Generator
+          url: https://ai-bot.cn/sites/2762.html
+          logo: Freepik AI Image Generator.png
+          description: Freepik最新推出的AI图片生成工具
+
+        - title: Canva AI图像生成
+          url: https://ai-bot.cn/sites/58.html
+          logo: Canva AI图像生成.png
+          description: 在线设计工具Canva推出的AI图像生成工具
+
+        - title: Stockimg AI
+          url: https://ai-bot.cn/sites/151.html
+          logo: Stockimg AI.png
+          description: AI生成各种类型的图像和插画
+
+        - title: Stable Doodle
+          url: https://ai-bot.cn/sites/3529.html
+          logo: Stable Doodle.png
+          description: StabilityAI最新推出的将手绘草图转换成精美图像的工具
+
+        - title: ClipDrop
+          url: https://ai-bot.cn/sites/103.html
+          logo: ClipDrop.png
+          description: Stability.ai推出的AI图片处理系列工具
+
+        - title: Leonardo.ai
+          url: https://ai-bot.cn/sites/1631.html
+          logo: Leonardo.ai.png
+          description: AI创建精美的游戏插画资产
+
+        - title: 稿定抠图
+          url: https://ai-bot.cn/sites/241.html
+          logo: 稿定抠图.png
+          description: 稿定设计推出的AI自动消除背景工具
+
+        - title: PhotoRoom
+          url: https://ai-bot.cn/sites/243.html
+          logo: PhotoRoom.png
+          description: 免费的AI图片背景移除和添加
+
+        - title: 美图抠图
+          url: https://ai-bot.cn/sites/1991.html
+          logo: 美图抠图.png
+          description: 美图秀秀推出的AI智能抠图工具，一键移除背景
+
+        - title: MagicStudio
+          url: https://ai-bot.cn/sites/282.html
+          logo: MagicStudio.png
+          description: 高颜值AI图像处理工具
+
+        - title: Booltool
+          url: https://ai-bot.cn/sites/677.html
+          logo: Booltool.png
+          description: 在线AI图像工具箱
+
+        - title: Cutout.Pro
+          url: https://ai-bot.cn/sites/305.html
+          logo: Cutout.Pro.png
+          description: AI在线处理图片
+
+        - title: 悟空图像PhotoSir
+          url: https://ai-bot.cn/sites/1418.html
+          logo: 悟空图像PhotoSir.png
+          description: 新一代专业图像处理软件，更智能、更高效、更好用
+
+        - title: Graviti Diffus
+          url: https://ai-bot.cn/sites/1688.html
+          logo: Graviti Diffus.png
+          description: 开箱即用的 Stable Diffusion WebUI 在线图像生成服务
+
+        - title: AiPPT
+          url: https://ai-bot.cn/sites/2644.html
+          logo: AiPPT.png
+          description: AI快速生成高质量PPT
+
+        - title: 美图AI PPT
+          url: https://ai-bot.cn/sites/1744.html
+          logo: 美图AI PPT.png
+          description: 美图秀秀推出的免费在线AI生成PPT设计工具
+
+        - title: Gamma App
+          url: https://ai-bot.cn/sites/995.html
+          logo: Gamma App.png
+          description: AI幻灯片演示生成工具
+
+        - title: Decktopus AI
+          url: https://ai-bot.cn/sites/784.html
+          logo: Decktopus AI.png
+          description: AI驱动的的在线演示文稿生成器
+
+        - title: Tome
+          url: https://ai-bot.cn/sites/482.html
+          logo: Tome.png
+          description: AI创作叙事性幻灯片
+
+        - title: 讯飞智文
+          url: https://ai-bot.cn/sites/6024.html
+          logo: 讯飞智文.png
+          description: 科大讯飞推出的免费AI PPT生成工具
+
+        - title: ChatBA
+          url: https://ai-bot.cn/sites/475.html
+          logo: ChatBA.png
+          description: AI幻灯片生成工具
+
+        - title: Powerpresent AI
+          url: https://ai-bot.cn/sites/366.html
+          logo: Powerpresent AI.png
+          description: AI创建精美的演示稿
+
+        - title: beautiful.ai
+          url: https://ai-bot.cn/sites/368.html
+          logo: beautiful.ai.png
+          description: AI创建展示幻灯片
+
+        - title: Chronicle
+          url: https://ai-bot.cn/sites/1126.html
+          logo: Chronicle.png
+          description: AI高颜值演示文稿创建
+
+        - title: Presentations.AI
+          url: https://ai-bot.cn/sites/369.html
+          logo: Presentations.AI.png
+          description: 演示文档版的ChatGPT
+
+        - title: SlidesAI
+          url: https://ai-bot.cn/sites/1225.html
+          logo: SlidesAI.png
+          description: AI快速创建演示幻灯片
+
+        - title: 歌者AI
+          url: https://ai-bot.cn/sites/1142.html
+          logo: 歌者AI.png
+          description: 彩漩PPT推出的AI PPT生成工具
+
+        - title: ChatPPT
+          url: https://ai-bot.cn/sites/1286.html
+          logo: ChatPPT.png
+          description: 必优科技推出的国内首个中文AI生成PPT的办公产品
+
+        - title: auxi
+          url: https://ai-bot.cn/sites/1228.html
+          logo: auxi.png
+          description: 功能强大的PowerPoint AI插件
+
+        - title: MindShow
+          url: https://ai-bot.cn/sites/1527.html
+          logo: MindShow.png
+          description: 国内独立开发者开发的输入内容自动生成演示工具
+
