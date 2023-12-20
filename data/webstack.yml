@@ -7,7 +7,7 @@
       logo: jackssybin.ico
       url: https://jackssybin.cn
       #qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
+      description: jackssybin程序爱好者！
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -54,61 +54,10 @@
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
-- taxonomy: 科研办公
+- taxonomy: 个人提升
   icon: fas fa-flask fa-lg
   list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.jpg
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: ''
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
+
     - term: 办公学习
       links:
         - title: 有道词典
@@ -127,8 +76,64 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
-
+    - term: 博客论坛
+      links:
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.jpg
+          description: 重新掌控你的新闻订阅源。
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.jpg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: 经管之家
+          url: https://bbs.pinggu.org/
+          logo: 经管之家.jpg
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: ''
+          description: 酷 壳 – CoolShell。   
+        - title: 美团技术团队
+          url: https://tech.meituan.com/
+          logo: ''
+          description: 美团技术团队的博客，干货满满     
+        - title: Spring Boot中文导航
+          url: http://springboot.fun/
+          logo: ''
+          description: 汇总了一些比较优秀的Spring Boot博客、开源作品等  
+        - title: Spring Cloud中文导航
+          url: https://springcloud.fun/
+          logo: ''
+          description: 汇总了一些比较优秀的Spring Cloud 博客、开源作品等                                    
+        - title: Web前端导航
+          url: http://www.alloyteam.com/nav/
+          logo: ''
+          description: 比较全的Web前端导航，包括 团队组织 、开发社区 、 前端门户、框架类库 等等网站的导航。
+        - title: Spring For All
+          url: https://spring4all.com/
+          logo: ''
+          description: 目标是做最专业的的民间Sptng组织     
+        - title: 五分钟学算法
+          url: https://www.cxyxiaowu.com/
+          logo: ''
+          description: 程序员学习网站，收集了和程序员学习相关的各种教程和资料，致力于将数据结构与算法讲清楚                  
+        - title: 床长人工智能教程
+          url: https://www.captainbed.net/blog-neo/
+          logo: ''
+          description: 不搞人工智能也可以看看，写的很有意思的教程，可以作为科普看看
+        - title: Java技术驿站
+          url: http://cmsblogs.com/
+          logo: ''
+          description: 有很多不错的Java系列文章
+        - title: bugstack
+          url: https://bugstack.cn/
+          logo: ''
+          description: 博主是京东架构师，产出非常丰富，包括框架、源码、设计模式等                              
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -199,6 +204,32 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: 腾讯云.jpg
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: 华为云.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+        - title: 云筏科技
+          logo: ''
+          url: https://my.cloudraft.cn/
+          description: 云筏 - 科研云。
+        - title: 极云普惠云电脑
+          logo: 极云普惠云电脑.png
+          url: https://www.ji-cloud.cn/
+          description: 云电脑-云游戏-手机变电脑软件。
+        - title: 青椒云
+          logo: 青椒云.jpg
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面,一站式云电脑服务平台。          
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -608,28 +639,6 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
     - term: 设计规范
       links:
         - title: Design Guidelines
@@ -670,6 +679,32 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
+    - term: 生物信息
+      links:
+        - title: NCBI
+          logo: ncbi.jpg
+          url: https://www.ncbi.nlm.nih.gov/
+          description: National Center for Biotechnology Information.
+        - title: Bioconda
+          logo: bioconda.jpg
+          url: https://anaconda.org/bioconda/
+          description: "Bioconda :: Anaconda.org."
+        - title: CPAN
+          logo: cpan.jpg
+          url: https://metacpan.org/
+          description: Search the CPAN.
+        - title: Gitter Galaxy
+          logo: gitter.jpg
+          url: https://gitter.im/galaxyproject
+          description: Galaxy Gitter Community.
+        - title: R Project
+          logo: r-project.jpg
+          url: https://www.r-project.org/
+          description: https://www.r-project.org
+        - title: Bioconductor
+          logo: bioconductor.jpg
+          url: http://www.bioconductor.org/
+          description: http://www.bioconductor.org          
 
 - taxonomy: AI学习
   icon: fas fa-pencil-alt fa-lg
