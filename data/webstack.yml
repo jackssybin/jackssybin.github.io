@@ -130,20 +130,6 @@
   icon: fas fa-flask fa-lg
   list:
 
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
     - term: 博客论坛
       links:
         - title: Inoreader
@@ -202,6 +188,22 @@
           url: https://bugstack.cn/
           logo: ''
           description: 博主是京东架构师，产出非常丰富，包括框架、源码、设计模式等                              
+
+
+    - term: 办公学习
+      links:
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。          
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
