@@ -787,12 +787,12 @@
           url: https://developer.aliyun.com/learning/roadmap/ai
           logo: aliyun-icon.png
           description: 阿里云作为国内领先的云服务，其开发者社区提供了一条完整的人工智能学习路线，旨在帮助用户从入门到进阶掌握人工智能领域的知识和技能。该路线包含了30门在线课程和22个实战案例，分为以下5大学习阶段： 
-    - term: AI提示指令
-      links:
-        - title: flowgpt
-          url: https://zhuanlan.zhihu.com/p/654088195
-          logo: flowgpt-icon.png
-          description: chatgpt指令大全            
+    # - term: AI提示指令
+    #   links:
+    #     - title: flowgpt
+    #       url: https://zhuanlan.zhihu.com/p/654088195
+    #       logo: flowgpt-icon.png
+    #       description: chatgpt指令大全            
 
 
 - taxonomy: AI学习
