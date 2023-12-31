@@ -61,6 +61,70 @@
       url: https://www.processon.com/
       description: 免费在线作图、实时协作。    
 
+- taxonomy: AI相关
+  icon: fas fa-pencil-alt fa-lg
+  list:
+    - term: 热门AI工具
+      links:
+        - title: ChatGPT
+          url: https://cn.bing.com/search?q=ChatGPT&ensearch=1
+          logo: ChatGPT.png
+          description: OpenAI旗下AI对话工具
+
+        - title: GPT-4
+          url: https://cn.bing.com/search?q=GPT-4&ensearch=1
+          logo: GPT-4.png
+          description: OpenAI旗下最新的GPT-4模型
+
+        - title: Midjourney
+          url: https://cn.bing.com/search?q=Midjourney&ensearch=1
+          logo: Midjourney.png
+          description: AI图像和插画生成工具
+
+        - title: 文心一言
+          url: https://yiyan.baidu.com/?utm_source=ai-bot.cn
+          logo: 文心一言.png
+          description: 百度推出的基于文心大模型的AI对话互动工具
+
+        - title: Stable Diffusion
+          url: https://cn.bing.com/search?q=Stable%20Diffusion&ensearch=1
+          logo: Stable Diffusion.png
+          description: StabilityAI推出的文本到图像生成AI
+
+        - title: 文心一格
+          url: https://yige.baidu.com/
+          logo: 文心一格.png
+          description: AI艺术和创意辅助平台
+
+        - title: 堆友AI
+          url: https://d.design/?from=aibot
+          logo: 堆友AI.png
+          description: 阿里巴巴出品的免费AI绘画和出图神器
+
+        - title: 美图设计室
+          url: https://www.x-design.com/?channel=10026
+          logo: 美图设计室.png
+          description: AI图像创作和设计平台
+
+        - title: 一帧秒创
+          url: https://aigc.yizhentv.com/?_f=botrm
+          logo: 一帧秒创.png
+          description: 简单好用的AI智能视频创作平台
+
+        - title: 触手AI绘画
+          url: http://douchu.ai/warehouse/styleStore?inviteCode=677102&channel=channel_invite
+          logo: 触手AI绘画.png
+          description: 免费专业的AI绘画/模型/分享平台
+
+        - title: TreeMind树图
+          url: https://shutu.cn/?from=aibot 
+          logo: TreeMind树图.png
+          description: 新一代AI智能思维导图
+
+        - title: 魔音工坊
+          url: https://www.moyin.com/?promottype=WZ_aibot
+          logo: 魔音工坊.png
+          description: AI配音软件，轻松配出媲美真人的声音
 
 - taxonomy: 个人提升
   icon: fas fa-flask fa-lg
@@ -795,70 +859,7 @@
     #       description: chatgpt指令大全            
 
 
-- taxonomy: AI学习
-  icon: fas fa-pencil-alt fa-lg
-  list:
-    - term: 热门工具
-      links:
-        - title: ChatGPT
-          url: https://cn.bing.com/search?q=ChatGPT&ensearch=1
-          logo: ChatGPT.png
-          description: OpenAI旗下AI对话工具
 
-        - title: GPT-4
-          url: https://cn.bing.com/search?q=GPT-4&ensearch=1
-          logo: GPT-4.png
-          description: OpenAI旗下最新的GPT-4模型
-
-        - title: Midjourney
-          url: https://cn.bing.com/search?q=Midjourney&ensearch=1
-          logo: Midjourney.png
-          description: AI图像和插画生成工具
-
-        - title: 文心一言
-          url: https://yiyan.baidu.com/?utm_source=ai-bot.cn
-          logo: 文心一言.png
-          description: 百度推出的基于文心大模型的AI对话互动工具
-
-        - title: Stable Diffusion
-          url: https://cn.bing.com/search?q=Stable%20Diffusion&ensearch=1
-          logo: Stable Diffusion.png
-          description: StabilityAI推出的文本到图像生成AI
-
-        - title: 文心一格
-          url: https://yige.baidu.com/
-          logo: 文心一格.png
-          description: AI艺术和创意辅助平台
-
-        - title: 堆友AI
-          url: https://d.design/?from=aibot
-          logo: 堆友AI.png
-          description: 阿里巴巴出品的免费AI绘画和出图神器
-
-        - title: 美图设计室
-          url: https://www.x-design.com/?channel=10026
-          logo: 美图设计室.png
-          description: AI图像创作和设计平台
-
-        - title: 一帧秒创
-          url: https://aigc.yizhentv.com/?_f=botrm
-          logo: 一帧秒创.png
-          description: 简单好用的AI智能视频创作平台
-
-        - title: 触手AI绘画
-          url: http://douchu.ai/warehouse/styleStore?inviteCode=677102&channel=channel_invite
-          logo: 触手AI绘画.png
-          description: 免费专业的AI绘画/模型/分享平台
-
-        - title: TreeMind树图
-          url: https://shutu.cn/?from=aibot 
-          logo: TreeMind树图.png
-          description: 新一代AI智能思维导图
-
-        - title: 魔音工坊
-          url: https://www.moyin.com/?promottype=WZ_aibot
-          logo: 魔音工坊.png
-          description: AI配音软件，轻松配出媲美真人的声音
 
 - taxonomy: AI学习
   icon: fas fa-pencil-alt fa-lg
