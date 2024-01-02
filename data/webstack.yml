@@ -203,7 +203,11 @@
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
-          description: 谷歌翻译。          
+          description: 谷歌翻译。    
+        - title: 七夜导航
+          logo: qinight.png
+          url: https://nav.qinight.com/
+          description: 比较全的一个导航网站 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
