@@ -83,3 +83,59 @@ WebStack 有非常多的魔改版本，这是其中一个。如果你对本主�
 
 ![donate-wecaht-aliapy](https://user-images.githubusercontent.com/26101369/212630361-aa393be8-581e-4a97-bfe2-256e883791fb.jpg)
 
+使用说明与技巧
+这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+
+左导航栏图标
+左侧、顶部导航栏图标用的都是 Font Awesome 图标库 v5 版本 Free 的图标。链接如下：
+
+🔗 https://fontawesome.com/v5/search?o=r&m=free
+
+
+调整头部搜索栏
+头部搜索栏的默认位置可以通过下面的方法进行修改。
+
+1. 直接修改 layouts/partials/content_search.html，调整对应部分的位置。
+2. 调整默认的搜索（即点击"常用/搜索/工具 ...." 时下指箭头的指向），把对应的 id 添加到对应的 label 里面。
+
+
+
+自定义头部导航
+WebStack-Hugo 把头部的导航菜单的各个信息集成在了 data/header.yml 文件中，每个人可以根据自己的需要调整。
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 作者
+  icon: fa fa-book
+  link: https://www.yuque.com/shenweiyan
+
+- item: 配置
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: 源码
+      url: "#"
+    - name: 图标
+      url: "#"
+
+获取网站图标
+Bio & IT 网址导航默认使用的是个人收集的网站图标，主要是查看网站源码、百度、谷歌等途径把对应导航的图标下载下来，这个方法比较原始繁琐，适合导航不是很多的情况。
+
+你也可以使用一为提供的的 Favicon 图标 api：https://api.iowen.cn/doc/favicon.html。
+
+接口地址：https://api.iowen.cn/favicon
+返回格式：图片
+请求方式：get
+请求示例：
+    ■ https://api.iowen.cn/favicon/www.iowen.cn.png
+    ■ https://api.iowen.cn/favicon/www.baidu.com.png
+
+请求参数说明：
+名称  必填  类型  说明  
+  url 是 string  需要获取图标的URL地址，如：www.iowen.cn，确保URL能够正常打开
+不需要 http(s):// ，且结尾必须填 .png
+返回参数说明：
+名称  类型  说明
+无 无 无
+返回示例：返回网址图标

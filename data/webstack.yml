@@ -150,43 +150,43 @@
           description: 阮一峰，科技爱好者周刊。
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: ''
+          logo: coolshell.png
           description: 酷 壳 – CoolShell。   
         - title: 美团技术团队
           url: https://tech.meituan.com/
-          logo: ''
+          logo: techmeituan.png
           description: 美团技术团队的博客，干货满满     
         - title: Spring Boot中文导航
           url: http://springboot.fun/
-          logo: ''
+          logo: springbootfun.png
           description: 汇总了一些比较优秀的Spring Boot博客、开源作品等  
         - title: Spring Cloud中文导航
           url: https://springcloud.fun/
-          logo: ''
+          logo: springcloudfun.png
           description: 汇总了一些比较优秀的Spring Cloud 博客、开源作品等                                    
-        - title: Web前端导航
-          url: http://www.alloyteam.com/nav/
-          logo: ''
-          description: 比较全的Web前端导航，包括 团队组织 、开发社区 、 前端门户、框架类库 等等网站的导航。
+        # - title: Web前端导航
+        #   url: http://www.alloyteam.com/nav/
+        #   logo: ''
+        #   description: 比较全的Web前端导航，包括 团队组织 、开发社区 、 前端门户、框架类库 等等网站的导航。
         - title: Spring For All
           url: https://spring4all.com/
-          logo: ''
+          logo: spring4all.png
           description: 目标是做最专业的的民间Sptng组织     
         - title: 五分钟学算法
           url: https://www.cxyxiaowu.com/
-          logo: ''
+          logo: cxyxiaowu.png
           description: 程序员学习网站，收集了和程序员学习相关的各种教程和资料，致力于将数据结构与算法讲清楚                  
         - title: 床长人工智能教程
           url: https://www.captainbed.net/blog-neo/
-          logo: ''
+          logo: captainbed.png
           description: 不搞人工智能也可以看看，写的很有意思的教程，可以作为科普看看
         - title: Java技术驿站
           url: http://cmsblogs.com/
-          logo: ''
+          logo: cmsblogs.png
           description: 有很多不错的Java系列文章
         - title: bugstack
           url: https://bugstack.cn/
-          logo: ''
+          logo: bugstack.png
           description: 博主是京东架构师，产出非常丰富，包括框架、源码、设计模式等                              
 
 
