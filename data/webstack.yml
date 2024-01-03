@@ -61,6 +61,7 @@
       url: https://www.processon.com/
       description: 免费在线作图、实时协作。    
 
+
 - taxonomy: AI相关
   icon: fas fa-pencil-alt fa-lg
   list:
@@ -125,6 +126,323 @@
           url: https://www.moyin.com/?promottype=WZ_aibot
           logo: 魔音工坊.png
           description: AI配音软件，轻松配出媲美真人的声音
+
+
+- taxonomy: 热门必备
+  icon: fa fa-heart 
+  list:
+    - term: 热门必备
+      links:
+        - title: 'panquarkcn'
+          url: https://pan.quark.cn/s/5263050c121e
+          logo: panquarkcn.png
+          description: 精选软件壁纸打包下载
+        - title: 'zxzjacom'
+          url: https://www.zxzja.com/
+          logo: zxzjacom.png
+          description: 免费高清影视剧
+        - title: 'mitangtv'
+          url: https://www.mitang.tv/
+          logo: mitangtv.png
+          description: 高清新番动漫
+        - title: 'ptsayqzcom'
+          url: https://pt.sayqz.com/
+          logo: ptsayqzcom.png
+          description: 在线音乐播放器
+        - title: 'tophubtoday'
+          url: https://tophub.today/
+          logo: tophubtoday.png
+          description: 一站看完全网热榜消息
+        - title: 'crazygamescom'
+          url: https://www.crazygames.com/
+          logo: crazygamescom.png
+          description: 上千款在线小游戏
+        - title: 'panqianfanapp'
+          url: https://pan.qianfan.app/
+          logo: panqianfanapp.png
+          description: 聚合网盘搜索引擎
+        - title: 'zhannas-archiveorg'
+          url: https://zh.annas-archive.org/
+          logo: zhannas-archiveorg.png
+          description: 数字图书馆
+        - title: 'xinghuoxfyuncn'
+          url: https://xinghuo.xfyun.cn/
+          logo: xinghuoxfyuncn.png
+          description: 国内可用免费AI模型
+        - title: 'wallhavencc'
+          url: https://wallhaven.cc/
+          logo: wallhavencc.png
+          description: 最佳高清壁纸网站
+        - title: 'aiviycom'
+          url: https://www.aiviy.com/item/windows11?pid=295
+          logo: aiviycom.png
+          description: Win11家庭版/专业版 2折
+        - title: 'aiviycom'
+          url: https://www.aiviy.com/item/office-home-and-student-2021?pid=295
+          logo: aiviycom.png
+          description: 最新Office2021终身版 5折
+        - title: 'storelizhiio'
+          url: https://store.lizhi.io/site/products/id/65?cid=2yj7gln9
+          logo: storelizhiio.png
+          description: 荔枝官方靠谱拼车
+        - title: 'liveyj1211work'
+          url: http://live.yj1211.work/
+          logo: liveyj1211work.png
+          description: 直播聚合观看平台
+        - title: 'toolwacom'
+          url: https://toolwa.com/firework/
+          logo: toolwacom.png
+          description: 新年看场在线烟花吧~
+
+
+- taxonomy: 实用工具
+  icon: fa fa-thumbs-o-up 
+  list:
+    - term: 实用工具
+      links:
+        - title: 'webbaimiaoappcom'
+          url: https://web.baimiaoapp.com/
+          logo: webbaimiaoappcom.png
+          description: 在线OCR文字识别
+        - title: 'toolspdf24org'
+          url: https://tools.pdf24.org/zh/
+          logo: toolspdf24org.png
+          description: 完全免费的PDF工具箱
+        - title: 'bgsubcn'
+          url: https://bgsub.cn/
+          logo: bgsubcn.png
+          description: 抠图/替换图片背景
+        - title: 'waifu2xudpjp'
+          url: http://waifu2x.udp.jp/
+          logo: waifu2xudpjp.png
+          description: 图片无损放大
+        - title: 'deeplcom'
+          url: https://www.deepl.com/translator
+          logo: deeplcom.png
+          description: 最强在线翻译工具
+        - title: 'photopeacom'
+          url: https://www.photopea.com/
+          logo: photopeacom.png
+          description: 网页版 Photoshop
+        - title: 'tinypngcom'
+          url: https://tinypng.com/
+          logo: tinypngcom.png
+          description: 图片压缩利器
+        - title: 'ezgifcom'
+          url: https://ezgif.com/
+          logo: ezgifcom.png
+          description: 全能GIF编辑制作工具
+        - title: 'photokitcom'
+          url: https://photokit.com/?lang=zh
+          logo: photokitcom.png
+          description: 在线图片编辑器
+        - title: 'cliim'
+          url: https://cli.im/
+          logo: cliim.png
+          description: 二维码制作解析工具
+        - title: 'aconvertcom'
+          url: https://www.aconvert.com/cn/
+          logo: aconvertcom.png
+          description: 免费文件格式转换工具
+        - title: 'convertioco'
+          url: https://convertio.co/zh/
+          logo: convertioco.png
+          description: 文件格式转换器
+        - title: 'virustotalcom'
+          url: https://www.virustotal.com/
+          logo: virustotalcom.png
+          description: 多引擎在线查毒
+        - title: 'weiboiiilabcom'
+          url: https://weibo.iiilab.com/
+          logo: weiboiiilabcom.png
+          description: 视频解析下载
+        - title: 'xbeibeixcom'
+          url: https://xbeibeix.com/api/bilibili/
+          logo: xbeibeixcom.png
+          description: B站视频下载
+        - title: 'toolliumingyecn'
+          url: http://tool.liumingye.cn/video/
+          logo: toolliumingyecn.png
+          description: 全能VIP视频在线解析
+        - title: 'searchchongbuluocom'
+          url: https://search.chongbuluo.com/
+          logo: searchchongbuluocom.png
+          description: 超强的聚合搜索网站
+        - title: 'toolsmikuac'
+          url: https://tools.miku.ac/
+          logo: toolsmikuac.png
+          description: 在线黑科技工具箱
+        - title: 'toolmkblogcn'
+          url: http://tool.mkblog.cn/
+          logo: toolmkblogcn.png
+          description: 有趣又实用的工具集合
+        - title: 'guozhivipcom'
+          url: http://guozhivip.com/tool/
+          logo: guozhivipcom.png
+          description: 日常生活工具集合
+        - title: 'toollu'
+          url: https://tool.lu/
+          logo: toollu.png
+          description: 程序员专用工具集
+        - title: 'readeryijianapp'
+          url: https://reader.yijian.app/
+          logo: readeryijianapp.png
+          description: 高颜值在线TXT阅读器
+        - title: 'processoncom'
+          url: https://www.processon.com/
+          logo: processoncom.png
+          description: 在线作图/思维导图
+        - title: 'zhaotaicicn'
+          url: https://zhaotaici.cn/
+          logo: zhaotaicicn.png
+          description: 影视剧台词搜索
+        - title: 'vmagiconchcom'
+          url: https://v.magiconch.com/epub-transform.html
+          logo: vmagiconchcom.png
+          description: 电子书繁简互转
+        - title: 'toolsliumingyecn'
+          url: https://tools.liumingye.cn/music/
+          logo: toolsliumingyecn.png
+          description: 在线音乐播放器
+        - title: 'wenshushucn'
+          url: https://www.wenshushu.cn/
+          logo: wenshushucn.png
+          description: 免登录文件分享传输
+        - title: 'sanwexyz'
+          url: https://www.sanwe.xyz/tools/unlock-music/
+          logo: sanwexyz.png
+          description: 移除音乐加密保护
+        - title: 'vmagiconchcom'
+          url: https://v.magiconch.com/sns-image
+          logo: vmagiconchcom.png
+          description: 一图切多图工具
+        - title: 'epub2kindlecom'
+          url: https://epub2kindle.com/zh/
+          logo: epub2kindlecom.png
+          description: 多种电子书格式互转
+        - title: 'imagestoolcom'
+          url: https://imagestool.com/zh_CN/
+          logo: imagestoolcom.png
+          description: 免费/无需上传文件
+        - title: 'lab5imecn'
+          url: https://lab.5ime.cn/video/
+          logo: lab5imecn.png
+          description: 短视频图集去水印下载
+        - title: 'ttsmakercn'
+          url: https://ttsmaker.cn/
+          logo: ttsmakercn.png
+          description: 在线免费文本转语音
+        - title: 'flipclockercom'
+          url: https://flipclocker.com/
+          logo: flipclockercom.png
+          description: 网页版翻页时钟
+        - title: 'lingvaml'
+          url: https://lingva.ml/
+          logo: lingvaml.png
+          description: 谷歌翻译第三方网页
+        - title: 'yppptcom'
+          url: https://www.ypppt.com/
+          logo: yppptcom.png
+          description: 免费PPT模板下载
+        - title: 'toolbrowserqqcom'
+          url: https://tool.browser.qq.com/
+          logo: toolbrowserqqcom.png
+          description: 腾讯在线工具箱平台
+        - title: 'moaktcom'
+          url: https://www.moakt.com/zh
+          logo: moaktcom.png
+          description: 临时邮箱
+        - title: 'mathsolvermicrosoftcom'
+          url: https://mathsolver.microsoft.com/zh
+          logo: mathsolvermicrosoftcom.png
+          description: 数学求解计算器
+        - title: 'arctencentcom'
+          url: https://arc.tencent.com/zh/ai-demos/faceRestoration
+          logo: arctencentcom.png
+          description: 图片修复/放大/抠图
+        - title: 'musicenccom'
+          url: https://www.musicenc.com/
+          logo: musicenccom.png
+          description: 歌词/音乐下载网站
+        - title: 'photojoinercom'
+          url: https://www.photojoiner.com/
+          logo: photojoinercom.png
+          description: 在线图片拼接工具
+        - title: 'cdnjsoncom'
+          url: https://cdnjson.com/
+          logo: cdnjsoncom.png
+          description: 免费图片外链
+        - title: 'watermarkremoverio'
+          url: https://www.watermarkremover.io/zh
+          logo: watermarkremoverio.png
+          description: 图片去水印
+        - title: 'aha-musiccom'
+          url: https://aha-music.com/
+          logo: aha-musiccom.png
+          description: 在线听歌识曲工具
+        - title: 'anybtethlimo'
+          url: https://anybt.eth.limo/
+          logo: anybtethlimo.png
+          description: 磁力种子搜索网站
+        - title: 'jianlixiazaicn'
+          url: https://jianlixiazai.cn/
+          logo: jianlixiazaicn.png
+          description: 简历模板免费下载
+        - title: 'bilibiliqcom'
+          url: https://www.bilibiliq.com/
+          logo: bilibiliqcom.png
+          description: b站各种封面提取
+        - title: 'mp3cutnet'
+          url: https://mp3cut.net/cn/
+          logo: mp3cutnet.png
+          description: 在线音频剪辑器
+        - title: 'toolwacom'
+          url: https://toolwa.com/record/
+          logo: toolwacom.png
+          description: 在线录屏/录像/录音
+        - title: 'deviceshotscom'
+          url: https://deviceshots.com/
+          logo: deviceshotscom.png
+          description: 带壳图片/模型生成器
+        - title: 'saofm'
+          url: https://sao.fm/
+          logo: saofm.png
+          description: 网络收音机
+
+
+- taxonomy: 网盘搜索
+  icon: fa  
+  list:
+    - term: 网盘搜索
+      links:
+        - title: 'panqianfanapp'
+          url: https://pan.qianfan.app/
+          logo: panqianfanapp.png
+          description: 百度/阿里/蓝奏/天翼/夸克/迅雷网盘
+        - title: 'alipansoucom'
+          url: https://www.alipansou.com/
+          logo: alipansoucom.png
+          description: 百度/阿里/夸克/天翼云盘
+        - title: 'xuebapancom'
+          url: https://www.xuebapan.com/
+          logo: xuebapancom.png
+          description: 百度网盘
+        - title: 'nicesonet'
+          url: https://www.niceso.net/
+          logo: nicesonet.png
+          description: 阿里云盘
+        - title: 'upyunsocom'
+          url: https://www.upyunso.com/
+          logo: upyunsocom.png
+          description: 阿里云盘
+        - title: 'panccofcc'
+          url: https://pan.ccof.cc/
+          logo: panccofcc.png
+          description: 阿里云盘
+        - title: 'pikasotop'
+          url: https://www.pikaso.top/
+          logo: pikasotop.png
+          description: 百度/阿里/蓝奏/天翼/夸克网站
 
 - taxonomy: 个人提升
   icon: fas fa-flask fa-lg
@@ -1196,4 +1514,1591 @@
           url: https://www.mindshow.fun/?ref=ai-bot.cn
           logo: MindShow.png
           description: 国内独立开发者开发的输入内容自动生成演示工具
+
+
+- taxonomy: 科技酷站
+  icon: fa fa-rocket 
+  list:
+    - term: 科技酷站
+      links:
+        - title: 'xinghuoxfyuncn'
+          url: https://xinghuo.xfyun.cn/
+          logo: xinghuoxfyuncn.png
+          description: 国内可用免费AI模型
+        - title: 'anitabicn'
+          url: https://anitabi.cn/
+          logo: anitabicn.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'aichpoemnet'
+          url: https://www.aichpoem.net/
+          logo: aichpoemnet.png
+          description: AI在线诗歌写作平台
+        - title: 'ai-botcn'
+          url: https://ai-bot.cn/
+          logo: ai-botcn.png
+          description: 国内外AI工具集合
+        - title: 'chat-shared3zhileio'
+          url: https://chat-shared3.zhile.io/shared.html
+          logo: chat-shared3zhileio.png
+          description: 免费 ChatGPT 体验
+        - title: 'newzonetop'
+          url: https://newzone.top/chatgpt/cn
+          logo: newzonetop.png
+          description: ChatGPT快捷指令表
+        - title: 'piskelappcom'
+          url: https://www.piskelapp.com/
+          logo: piskelappcom.png
+          description: 手动绘制GIF像素画
+        - title: 'sdxlturboai'
+          url: https://sdxlturbo.ai/
+          logo: sdxlturboai.png
+          description: 实时 AI 绘画生成
+        - title: 'perplexityai'
+          url: https://www.perplexity.ai/
+          logo: perplexityai.png
+          description: AI 问答网站
+        - title: 'bjimmylvcn'
+          url: https://b.jimmylv.cn/
+          logo: bjimmylvcn.png
+          description: 一键总结音视频内容
+        - title: 'giteecom'
+          url: https://gitee.com/click33/chatgpt---mirror-station-summary
+          logo: giteecom.png
+          description: 免费ChatGPT站点列表
+        - title: 'waifulabscom'
+          url: https://waifulabs.com/
+          logo: waifulabscom.png
+          description: 二次元头像生成器
+        - title: 'poecom'
+          url: https://poe.com/
+          logo: poecom.png
+          description: 多模型AI智能机器人
+        - title: 'classicqrbtfcom'
+          url: https://classic.qrbtf.com/
+          logo: classicqrbtfcom.png
+          description: 让你的二维码与众不同
+        - title: 'whatslinkinfo'
+          url: https://whatslink.info/
+          logo: whatslinkinfo.png
+          description: 磁力链接内容预览
+        - title: 'airandomimageart'
+          url: https://airandomimage.art/
+          logo: airandomimageart.png
+          description: AI随机美女生成器
+        - title: 'chatbulitanet'
+          url: https://chat.bulita.net/
+          logo: chatbulitanet.png
+          description: AI聊天室
+
+- taxonomy: 学术搜索
+  icon: fa  
+  list:
+    - term: 学术搜索
+      links:
+        - title: 'scholargooglecom'
+          url: https://scholar.google.com/
+          logo: scholargooglecom.png
+          description: 不解释
+        - title: 'xueshubaiducom'
+          url: https://xueshu.baidu.com/
+          logo: xueshubaiducom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'scholarchongbuluocom'
+          url: https://scholar.chongbuluo.com/
+          logo: scholarchongbuluocom.png
+          description: 超强聚合资料搜索网站
+        - title: 'cn-kinet'
+          url: https://www.cn-ki.net/
+          logo: cn-kinet.png
+          description: 免费期刊论文检索
+        - title: 'koovincom'
+          url: http://www.koovin.com/
+          logo: koovincom.png
+          description: 免费文献资源共享平台
+        - title: 'cnknoemacom'
+          url: https://cn.knoema.com/atlas
+          logo: cnknoemacom.png
+          description: 世界各国统计资料数据
+        - title: 'oalibcom'
+          url: https://www.oalib.com/
+          logo: oalibcom.png
+          description: 免费学术论文搜索下载
+        - title: 'sci-hubst'
+          url: https://sci-hub.st/
+          logo: sci-hubst.png
+          description: 全球最大的免费论文库
+        - title: 'libgenvg'
+          url: https://libgen.vg/
+          logo: libgenvg.png
+          description: 全球免费书籍期刊下载
+
+
+
+- taxonomy: 以图搜图
+  icon: fa  
+  list:
+    - term: 以图搜图
+      links:
+        - title: 'yandexcom'
+          url: https://yandex.com/images/
+          logo: yandexcom.png
+          description: 搜图王者，效果惊艳！
+        - title: 'googlecom'
+          url: https://www.google.com/imghp
+          logo: googlecom.png
+          description: 效果可以
+        - title: 'imagebaiducom'
+          url: https://image.baidu.com/?fr=shitu
+          logo: imagebaiducom.png
+          description: 可以用
+        - title: 'saucenaocom'
+          url: https://saucenao.com/
+          logo: saucenaocom.png
+          description: 搜索插画作品效果极好
+        - title: 'tracemoe'
+          url: https://trace.moe/
+          logo: tracemoe.png
+          description: 动漫截图识别找原作
+        - title: 'cnbingcom'
+          url: https://cn.bing.com/visualsearch
+          logo: cnbingcom.png
+          description: 生活物品场景识别搜索
+
+- taxonomy: 电子书搜索
+  icon: fa  
+  list:
+    - term: 电子书搜索
+      links:
+        - title: 'zhannas-archiveorg'
+          url: https://zh.annas-archive.org/
+          logo: zhannas-archiveorg.png
+          description: 影子图书馆搜索引擎
+        - title: 'kgbookcom'
+          url: https://kgbook.com/
+          logo: kgbookcom.png
+          description: 资源多/免登录
+        - title: 'jiumodiarycom'
+          url: https://www.jiumodiary.com/
+          logo: jiumodiarycom.png
+          description: 聚合文档搜索引擎
+        - title: 'wereadqqcom'
+          url: https://weread.qq.com/
+          logo: wereadqqcom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'newshugeorg'
+          url: https://new.shuge.org/
+          logo: newshugeorg.png
+          description: 在线古籍图书馆
+        - title: 'sobooksnet'
+          url: https://sobooks.net/
+          logo: sobooksnet.png
+          description: 资源多/格式全/需扫码
+        - title: 'giffoxcom'
+          url: https://www.giffox.com/
+          logo: giffoxcom.png
+          description: 最佳图书聚合搜索网站
+        - title: 'shuyishenmezhideducom'
+          url: https://shuyi.shenmezhidedu.com/
+          logo: shuyishenmezhideducom.png
+          description: 不错的导航网站
+        - title: 'shuxiangjiacn'
+          url: http://www.shuxiangjia.cn/
+          logo: shuxiangjiacn.png
+          description: 电子书站点超多
+        - title: 'ituringcomcn'
+          url: https://www.ituring.com.cn/book?tab=free
+          logo: ituringcomcn.png
+          description: 计算机书籍在线阅读
+        - title: 'gujiguancom'
+          url: https://www.gujiguan.com/
+          logo: gujiguancom.png
+          description: 古文献典籍资源库
+        - title: 'jb51net'
+          url: https://www.jb51.net/books/
+          logo: jb51net.png
+          description: 免登录
+        - title: 'haodoonet'
+          url: http://www.haodoo.net/
+          logo: haodoonet.png
+          description: 繁体书籍免费阅读下载
+        - title: 'banshujiangcn'
+          url: http://www.banshujiang.cn/
+          logo: banshujiangcn.png
+          description: 计算机书籍
+        - title: 'freexiaoshuocom'
+          url: http://www.freexiaoshuo.com/
+          logo: freexiaoshuocom.png
+          description: TXT小说下载
+        - title: 'liber3ethlimo'
+          url: https://liber3.eth.limo/
+          logo: liber3ethlimo.png
+          description: 电子书下载
+        - title: 'freembookcom'
+          url: https://freembook.com/
+          logo: freembookcom.png
+          description: 电子书搜索
+        - title: 'searchyibookorg'
+          url: https://search.yibook.org/
+          logo: searchyibookorg.png
+          description: 电子书聚合搜索引擎
+        - title: 'mianfei22com'
+          url: https://mianfei22.com/
+          logo: mianfei22com.png
+          description: 免费小说阅读网
+        - title: 'book123info'
+          url: https://www.book123.info/
+          logo: book123info.png
+          description: 免费电子书下载
+        - title: 'owlookcomcn'
+          url: https://owlook.com.cn/
+          logo: owlookcomcn.png
+          description: 网络小说搜索引擎
+        - title: 'boyunsocom'
+          url: https://www.boyunso.com/
+          logo: boyunsocom.png
+          description: 通过关键词搜小说名
+        - title: 'shidiangujicom'
+          url: https://www.shidianguji.com/
+          logo: shidiangujicom.png
+          description: 古籍在线阅读平台
+        - title: 'qidiantucom'
+          url: https://www.qidiantu.com/
+          logo: qidiantucom.png
+          description: 起点小说数据
+
+- taxonomy: 壁纸美图
+  icon: fa  
+  list:
+    - term: 壁纸美图
+      links:
+        - title: 'panquarkcn'
+          url: https://pan.quark.cn/s/a12637f69f89
+          logo: panquarkcn.png
+          description: 精选壁纸美图打包
+        - title: 'wallhavencc'
+          url: https://wallhaven.cc/
+          logo: wallhavencc.png
+          description: 强烈推荐
+        - title: 'bzzzzmhcn'
+          url: https://bz.zzzmh.cn/
+          logo: bzzzzmhcn.png
+          description: 速度快/体验好
+        - title: 'wallpapercavecom'
+          url: https://wallpapercave.com/
+          logo: wallpapercavecom.png
+          description: 类型非常有趣
+        - title: 'anime-picturesnet'
+          url: https://anime-pictures.net/
+          logo: anime-picturesnet.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'backieecom'
+          url: https://backiee.com/
+          logo: backieecom.png
+          description: 支持全平台客户端
+        - title: 'simpledesktopscom'
+          url: http://simpledesktops.com/
+          logo: simpledesktopscom.png
+          description: 极简风格插画
+        - title: 'konachannet'
+          url: https://konachan.net/post
+          logo: konachannet.png
+          description: 插画/二次元作品
+        - title: 'alphacoderscom'
+          url: https://alphacoders.com/
+          logo: alphacoderscom.png
+          description: 各种类型资源极多
+        - title: 'wallpaperscraftcom'
+          url: https://wallpaperscraft.com/
+          logo: wallpaperscraftcom.png
+          description: 类型多/功能实用
+        - title: 'dpmorgcn'
+          url: https://www.dpm.org.cn/lights/royal.html
+          logo: dpmorgcn.png
+          description: 故宫博物院官方
+        - title: 'esoorg'
+          url: https://www.eso.org/public/images
+          logo: esoorg.png
+          description: 宇宙/天文爱好者必备
+        - title: 'wallpaperhubapp'
+          url: https://wallpaperhub.app/
+          logo: wallpaperhubapp.png
+          description: 高质量壁纸平台
+        - title: 'photoihansenorg'
+          url: https://photo.ihansen.org/
+          logo: photoihansenorg.png
+          description: 高质量图片免费下载
+        - title: 'pixiviccom'
+          url: https://pixivic.com/
+          logo: pixiviccom.png
+          description: P站排行榜浏览
+        - title: 'wallspiccom'
+          url: https://wallspic.com/cn
+          logo: wallspiccom.png
+          description: 高质量壁纸下载
+        - title: 'wallroomio'
+          url: https://wallroom.io/
+          logo: wallroomio.png
+          description: 高分辨率壁纸下载
+        - title: '3gbizhicom'
+          url: https://www.3gbizhi.com/
+          logo: 3gbizhicom.png
+          description: 手机壁纸大全
+        - title: 'bingee123net'
+          url: https://bing.ee123.net/
+          logo: bingee123net.png
+          description: 每日一图
+        - title: 'appnguaduotcn'
+          url: https://app.nguaduot.cn/timeline
+          logo: appnguaduotcn.png
+          description: 22个壁纸图库
+        - title: 'pixivjsorg'
+          url: https://pixiv.js.org/
+          logo: pixivjsorg.png
+          description: Pixiv图片浏览下载
+
+- taxonomy: 素材资源
+  icon: fa  
+  list:
+    - term: 素材资源
+      links:
+        - title: 'pixabaycom'
+          url: https://pixabay.com/zh/
+          logo: pixabaycom.png
+          description: 免费正版高清图片库
+        - title: 'unsplashcom'
+          url: https://unsplash.com/
+          logo: unsplashcom.png
+          description: 免费素材照片
+        - title: 'pexelscom'
+          url: https://www.pexels.com/zh-cn/
+          logo: pexelscom.png
+          description: 免费图片素材
+        - title: 'pexelscom'
+          url: https://www.pexels.com/zh-cn/videos/
+          logo: pexelscom.png
+          description: 免费视频素材
+        - title: 'gaodingcom'
+          url: https://www.gaoding.com/
+          logo: gaodingcom.png
+          description: 在线设计工具/海量素材
+        - title: 'thestocksim'
+          url: http://thestocks.im/
+          logo: thestocksim.png
+          description: 最佳免费素材聚合搜索
+        - title: 'logosccn'
+          url: https://www.logosc.cn/so/
+          logo: logosccn.png
+          description: 免费版权图片一键搜索
+        - title: 'iconfontcn'
+          url: https://www.iconfont.cn/
+          logo: iconfontcn.png
+          description: 阿里巴巴矢量图标库
+        - title: 'igoutucn'
+          url: https://igoutu.cn/
+          logo: igoutucn.png
+          description: 免费图标/剪贴画/音乐
+        - title: 'giphycom'
+          url: https://giphy.com/
+          logo: giphycom.png
+          description: 动图搜索&制作
+        - title: '100fontcom'
+          url: https://www.100font.com/
+          logo: 100fontcom.png
+          description: 免费字体下载
+        - title: 'mfsc123com'
+          url: https://www.mfsc123.com/
+          logo: mfsc123com.png
+          description: 免费图片/视频/音频搜索
+        - title: 'apphaikeiapp'
+          url: https://app.haikei.app/
+          logo: apphaikeiapp.png
+          description: 配图背景生成器
+        - title: 'tosoundcom'
+          url: https://www.tosound.com/
+          logo: tosoundcom.png
+          description: 免费音效素材资源
+        - title: 'yesiconapp'
+          url: https://yesicon.app/
+          logo: yesiconapp.png
+          description: 免费矢量图标库
+        - title: 'coolbackgroundsio'
+          url: https://coolbackgrounds.io/
+          logo: coolbackgroundsio.png
+          description: 渐变背景生成器
+        - title: 'jiandanlink'
+          url: https://www.jiandan.link/
+          logo: jiandanlink.png
+          description: 快速制作封面图片
+
+- taxonomy: 在线动漫
+  icon: fa  
+  list:
+    - term: 在线动漫
+      links:
+        - title: 'bilibilicom'
+          url: https://www.bilibili.com/
+          logo: bilibilicom.png
+          description: (゜-゜)つロ 干杯~
+        - title: 'agedmorg'
+          url: https://www.agedm.org/
+          logo: agedmorg.png
+          description: 在线/客户端
+        - title: 'mitangtv'
+          url: https://www.mitang.tv/
+          logo: mitangtv.png
+          description: 在线观看
+        - title: 'anime1me'
+          url: https://anime1.me/
+          logo: anime1me.png
+          description: 在线观看
+        - title: 'bimiacg4net'
+          url: https://www.bimiacg4.net/
+          logo: bimiacg4net.png
+          description: 在线观看
+        - title: 'yhmgocom'
+          url: https://www.yhmgo.com/
+          logo: yhmgocom.png
+          description: 在线观看
+        - title: 'nyafunnet'
+          url: https://www.nyafun.net/
+          logo: nyafunnet.png
+          description: 在线观看
+        - title: 'hmacgcn'
+          url: https://hmacg.cn/bangumi/
+          logo: hmacgcn.png
+          description: H萌动漫新番追番表
+        - title: 'yucwiki'
+          url: https://yuc.wiki/
+          logo: yucwiki.png
+          description: 动漫新番表/放送平台
+        - title: 'bgmlistcom'
+          url: https://bgmlist.com/
+          logo: bgmlistcom.png
+          description: 番剧放送信息
+        - title: 'missevancom'
+          url: https://www.missevan.com/
+          logo: missevancom.png
+          description: 来自二次元的声音
+        - title: 'lldmnet'
+          url: https://www.lldm.net/
+          logo: lldmnet.png
+          description: 在线观看
+
+- taxonomy: 影视追剧
+  icon: fa  
+  list:
+    - term: 影视追剧
+      links:
+        - title: 'zxzjacom'
+          url: https://www.zxzja.com/
+          logo: zxzjacom.png
+          description: 在线观看/度盘下载
+        - title: 'novipnoadnet'
+          url: https://www.novipnoad.net/
+          logo: novipnoadnet.png
+          description: 在线观看
+        - title: 'cupfoxapp'
+          url: https://cupfox.app/
+          logo: cupfoxapp.png
+          description: 影视资源聚合搜索引擎
+        - title: 'tvcctvcom'
+          url: https://tv.cctv.com/yxg
+          logo: tvcctvcom.png
+          description: 央视电视剧/动画片/纪录片
+        - title: 'ddyspro'
+          url: https://ddys.pro/
+          logo: ddyspro.png
+          description: 在线观看
+        - title: 'meijuttvip'
+          url: https://www.meijutt.vip/
+          logo: meijuttvip.png
+          description: 在线/磁力/度盘/迅雷
+        - title: 'yyetsclick'
+          url: https://yyets.click/home
+          logo: yyetsclick.png
+          description: 电驴/磁力/网盘下载
+        - title: 'gazerun'
+          url: https://gaze.run/
+          logo: gazerun.png
+          description: 在线观看
+        - title: 'czzy22com'
+          url: https://www.czzy22.com/
+          logo: czzy22com.png
+          description: 在线观看
+        - title: 'dianyinggoucom'
+          url: https://www.dianyinggou.com/
+          logo: dianyinggoucom.png
+          description: 聚合影视搜索引擎
+        - title: 'soupianpro'
+          url: https://soupian.pro/
+          logo: soupianpro.png
+          description: 聚合影视搜索引擎
+        - title: 'dianying'
+          url: https://dianyi.ng/
+          logo: dianying.png
+          description: 在线观看
+        - title: 'dy2018com'
+          url: https://www.dy2018.com/
+          logo: dy2018com.png
+          description: 磁力下载
+        - title: 'mcarvip'
+          url: https://mcar.vip/forum-oumeijuji-1.html
+          logo: mcarvip.png
+          description: 欧美剧集追剧下载
+        - title: 'subhdtv'
+          url: https://subhd.tv/
+          logo: subhdtv.png
+          description: 字幕下载
+        - title: 'zimukuorg'
+          url: https://zimuku.org/
+          logo: zimukuorg.png
+          description: 字幕下载
+        - title: 'assrtnet'
+          url: https://assrt.net/
+          logo: assrtnet.png
+          description: 字幕下载
+
+- taxonomy: 漫画阅读
+  icon: fa  
+  list:
+    - term: 漫画阅读
+      links:
+        - title: 'koxmoe'
+          url: https://kox.moe/
+          logo: koxmoe.png
+          description: EPUB/MOBI漫画下载
+        - title: 'manhuadmzjcom'
+          url: http://manhua.dmzj.com/
+          logo: manhuadmzjcom.png
+          description: 在线阅读/追漫
+        - title: 'manhuadbcom'
+          url: https://www.manhuadb.com/
+          logo: manhuadbcom.png
+          description: 日本漫画大全
+        - title: 'gufengmhcom'
+          url: https://www.gufengmh.com/
+          logo: gufengmhcom.png
+          description: 在线阅读
+        - title: 'mangabzcom'
+          url: https://mangabz.com/
+          logo: mangabzcom.png
+          description: 在线漫画阅读第一站
+        - title: 'fffdmcom'
+          url: https://www.fffdm.com/manhua/
+          logo: fffdmcom.png
+          description: 在线阅读
+        - title: 'baozimhcom'
+          url: https://www.baozimh.com/
+          logo: baozimhcom.png
+          description: 在线阅读
+        - title: 'dogemangacom'
+          url: https://dogemanga.com/
+          logo: dogemangacom.png
+          description: 在线阅读
+        - title: 'acgndogcom'
+          url: https://www.acgndog.com/category/rec-comic
+          logo: acgndogcom.png
+          description: 漫画下载
+        - title: 'xmanhuacom'
+          url: https://www.xmanhua.com/
+          logo: xmanhuacom.png
+          description: 在线漫画阅读
+        - title: 'colamangacom'
+          url: https://www.colamanga.com/
+          logo: colamangacom.png
+          description: 国漫资源全
+        - title: '1kkkcom'
+          url: https://www.1kkk.com/
+          logo: 1kkkcom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'cartoonmadcom'
+          url: https://www.cartoonmad.com/
+          logo: cartoonmadcom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'mangacopycom'
+          url: https://www.mangacopy.com/
+          logo: mangacopycom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'somancom'
+          url: https://www.soman.com/
+          logo: somancom.png
+          description: 一站式漫画搜索引擎
+        - title: 'mangadexorg'
+          url: https://mangadex.org/
+          logo: mangadexorg.png
+          description: 全球性漫画分享站
+        - title: 'comic-walkercom'
+          url: https://comic-walker.com/
+          logo: comic-walkercom.png
+          description: 生肉漫画
+        - title: 'comic-readpagesdev'
+          url: https://comic-read.pages.dev/
+          logo: comic-readpagesdev.png
+          description: 在线版漫画阅读器
+
+- taxonomy: 动漫下载
+  icon: fa  
+  list:
+    - term: 动漫下载
+      links:
+        - title: 'kisssuborg'
+          url: https://www.kisssub.org/
+          logo: kisssuborg.png
+          description: 磁力/BT下载
+        - title: 'sharedmhyorg'
+          url: https://share.dmhy.org/
+          logo: sharedmhyorg.png
+          description: 最佳动漫资源分享平台
+        - title: 'vcb-scom'
+          url: https://vcb-s.com/
+          logo: vcb-scom.png
+          description: 高质量BD压制组
+        - title: 'mikananime'
+          url: https://mikanani.me/
+          logo: mikananime.png
+          description: 新一代的动漫下载站
+        - title: 'acgrip'
+          url: https://acg.rip/
+          logo: acgrip.png
+          description: 种子下载
+        - title: 'subskamigamiorg'
+          url: https://subs.kamigami.org/
+          logo: subskamigamiorg.png
+          description: 最佳中日双语字幕资源
+        - title: 'bangumimoe'
+          url: https://bangumi.moe/
+          logo: bangumimoe.png
+          description: 磁力/种子下载
+        - title: 'animetoxcom'
+          url: http://www.animetox.com/
+          logo: animetoxcom.png
+          description: 动漫资源站
+        - title: 'acgndogcom'
+          url: https://www.acgndog.com/
+          logo: acgndogcom.png
+          description: 动漫资源站
+        - title: 'shareacgnxse'
+          url: https://share.acgnx.se/
+          logo: shareacgnxse.png
+          description: 磁力/种子下载
+        - title: 'dmguoorg'
+          url: https://dmguo.org/
+          logo: dmguoorg.png
+          description: 种子/字幕下载
+        - title: 'animethemesmoe'
+          url: https://animethemes.moe/
+          logo: animethemesmoe.png
+          description: 高清OP/ED播放下载
+
+- taxonomy: 看轻小说
+  icon: fa  
+  list:
+    - term: 看轻小说
+      links:
+        - title: 'lightnovelus'
+          url: https://www.lightnovel.us/
+          logo: lightnovelus.png
+          description: 国内最大轻小说论坛
+        - title: 'wenku8net'
+          url: https://www.wenku8.net/index.php
+          logo: wenku8net.png
+          description: 在线阅读/TXT下载
+        - title: 'linovelibcom'
+          url: https://www.linovelib.com/
+          logo: linovelibcom.png
+          description: 在线阅读/TXT下载
+        - title: '23qbcom'
+          url: https://www.23qb.com/lightnovel/
+          logo: 23qbcom.png
+          description: 在线阅读/TXT下载
+        - title: 'mobinovelscom'
+          url: https://www.mobinovels.com/
+          logo: mobinovelscom.png
+          description: EPUB/MOBI下载
+        - title: 'syosetucom'
+          url: https://syosetu.com/
+          logo: syosetucom.png
+          description: Web版小说连载网站
+        - title: 'animetoxcom'
+          url: http://www.animetox.com/category/source/lightnovel
+          logo: animetoxcom.png
+          description: EPUB/TXT下载
+        - title: 'acgndogcom'
+          url: https://www.acgndog.com/category/qingxiaoshuo
+          logo: acgndogcom.png
+          description: EPUB/TXT下载
+        - title: 'epublove'
+          url: https://epub.love/wp/
+          logo: epublove.png
+          description: EPUB下载
+        - title: 'gedoorgithubio'
+          url: https://gedoor.github.io/
+          logo: gedoorgithubio.png
+          description: 自定义书源小说阅读器
+
+- taxonomy: 软件下载
+  icon: fa  
+  list:
+    - term: 软件下载
+      links:
+        - title: 'pcqqcom'
+          url: https://pc.qq.com/
+          logo: pcqqcom.png
+          description: 比较靠谱的软件下载平台
+        - title: 'ghxicom'
+          url: https://www.ghxi.com/
+          logo: ghxicom.png
+          description: 修改版软件分享
+        - title: 'dayanzaime'
+          url: http://www.dayanzai.me/
+          logo: dayanzaime.png
+          description: 汉化软件分享
+        - title: 'alternativetonet'
+          url: https://alternativeto.net/
+          logo: alternativetonet.png
+          description: 同类可替代软件搜索
+        - title: 'sourceforgenet'
+          url: https://sourceforge.net/
+          logo: sourceforgenet.png
+          description: 全球最大的开源软件库
+        - title: 'msdnitellyoucn'
+          url: https://msdn.itellyou.cn/
+          logo: msdnitellyoucn.png
+          description: 微软原版软件系统
+        - title: 'cnuptodowncom'
+          url: https://cn.uptodown.com/
+          logo: cnuptodowncom.png
+          description: Win/Mac/安卓软件下载
+        - title: 'apkmirrorcom'
+          url: https://www.apkmirror.com/
+          logo: apkmirrorcom.png
+          description: 免费安全的APK下载平台
+        - title: 'zhaooleegitbooksio'
+          url: https://zhaoolee.gitbooks.io/chrome/content/
+          logo: zhaooleegitbooksio.png
+          description: Chrome扩展推荐
+        - title: 'amazing-appsgitbookio'
+          url: https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn
+          logo: amazing-appsgitbookio.png
+          description: 超赞的Windows软件
+        - title: 'kancloudcn'
+          url: https://www.kancloud.cn/maozhenggang/monkey-cheats#/catalog
+          logo: kancloudcn.png
+          description: 程序员工具推荐
+        - title: 'f-droidorg'
+          url: https://f-droid.org/
+          logo: f-droidorg.png
+          description: 免费开源安卓软件库
+
+- taxonomy: 扩展安装
+  icon: fa  
+  list:
+    - term: 扩展安装
+      links:
+        - title: 'chromezzzmhcn'
+          url: https://chrome.zzzmh.cn/
+          logo: chromezzzmhcn.png
+          description: Chrome/Edge 扩展下载
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN
+          logo: greasyforkorg.png
+          description: 最佳油猴脚本搜索网站
+        - title: 'extfanscom'
+          url: https://www.extfans.com/
+          logo: extfanscom.png
+          description: 扩展推荐/下载
+
+- taxonomy: 装机必备
+  icon: fa  
+  list:
+    - term: 装机必备
+      links:
+        - title: 'googlecom'
+          url: https://www.google.com/chrome/
+          logo: googlecom.png
+          description: 全球第一
+        - title: 'microsoftcom'
+          url: https://www.microsoft.com/zh-cn/edge
+          logo: microsoftcom.png
+          description: 内置很多小功能
+        - title: 'mozillaorg'
+          url: https://www.mozilla.org/zh-CN/firefox/new/
+          logo: mozillaorg.png
+          description: 认准国际版
+        - title: 'cnbandisoftcom'
+          url: http://cn.bandisoft.com/bandizip/
+          logo: cnbandisoftcom.png
+          description: 压缩/解压工具
+        - title: '7-ziporg'
+          url: https://www.7-zip.org/
+          logo: 7-ziporg.png
+          description: 开源免费的解压缩软件
+        - title: 'cnbandisoftcom'
+          url: http://cn.bandisoft.com/honeyview/
+          logo: cnbandisoftcom.png
+          description: 轻量快速的看图软件
+        - title: 'potplayerdaumnet'
+          url: https://potplayer.daum.net/
+          logo: potplayerdaumnet.png
+          description: 最佳视频播放器
+        - title: 'sumatrapdfreaderorg'
+          url: https://www.sumatrapdfreader.org/free-pdf-reader
+          logo: sumatrapdfreaderorg.png
+          description: 最轻量的PDF阅读器
+        - title: 'qbittorrentorg'
+          url: https://www.qbittorrent.org/
+          logo: qbittorrentorg.png
+          description: 纯粹专业的BT下载软件
+        - title: 'internetdownloadmanagercom'
+          url: https://www.internetdownloadmanager.com/
+          logo: internetdownloadmanagercom.png
+          description: 网络多线程下载神器
+        - title: 'voidtoolscom'
+          url: https://www.voidtools.com/zh-cn/
+          logo: voidtoolscom.png
+          description: 最快的文件名搜索软件
+        - title: 'anytxtnet'
+          url: https://anytxt.net/
+          logo: anytxtnet.png
+          description: 文件内容搜索利器
+        - title: 'ditto-cpsourceforgeio'
+          url: https://ditto-cp.sourceforge.io/
+          logo: ditto-cpsourceforgeio.png
+          description: 历史剪贴板
+        - title: 'advancedrenamercom'
+          url: https://www.advancedrenamer.com/
+          logo: advancedrenamercom.png
+          description: 批量重命名
+        - title: 'huorongcn'
+          url: https://www.huorong.cn/
+          logo: huorongcn.png
+          description: 安静舒服占用低
+        - title: 'geekuninstallercom'
+          url: https://geekuninstaller.com/
+          logo: geekuninstallercom.png
+          description: 免费软件彻底卸载工具
+        - title: 'diskgeniuscn'
+          url: https://www.diskgenius.cn/
+          logo: diskgeniuscn.png
+          description: 专业磁盘管理&文件恢复
+        - title: 'notionso'
+          url: https://www.notion.so/zh-cn
+          logo: notionso.png
+          description: 全能笔记软件
+        - title: 'zhsnipastecom'
+          url: https://zh.snipaste.com/
+          logo: zhsnipastecom.png
+          description: 截图 + 贴图
+        - title: 'screentogifcom'
+          url: https://www.screentogif.com/
+          logo: screentogifcom.png
+          description: 动图录制编辑器
+        - title: 'rufusie'
+          url: https://rufus.ie/zh/
+          logo: rufusie.png
+          description: 轻松创建USB启动盘
+        - title: 'githubcom'
+          url: https://github.com/Chuyu-Team/Dism-Multi-language
+          logo: githubcom.png
+          description: 最强Win优化设置工具
+        - title: 'appsmicrosoftcom'
+          url: https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S
+          logo: appsmicrosoftcom.png
+          description: 空格键快速预览文件内容
+        - title: 'notepadsappcom'
+          url: https://www.notepadsapp.com/
+          logo: notepadsappcom.png
+          description: 好用的记事本替代软件
+
+- taxonomy: 软件博客
+  icon: fa  
+  list:
+    - term: 软件博客
+      links:
+        - title: 'storelizhiio'
+          url: https://store.lizhi.io/?cid=2yj7gln9
+          logo: storelizhiio.png
+          description: 最新鲜优秀的正版软件
+        - title: 'iplaysoftcom'
+          url: https://www.iplaysoft.com/
+          logo: iplaysoftcom.png
+          description: 软件改变生活
+        - title: 'appinncom'
+          url: https://www.appinn.com/
+          logo: appinncom.png
+          description: 小巧/实用/有趣的软件
+        - title: 'sspaicom'
+          url: https://sspai.com/
+          logo: sspaicom.png
+          description: 高质量应用推荐媒体
+        - title: 'runningcheesecom'
+          url: https://www.runningcheese.com/
+          logo: runningcheesecom.png
+          description: 高效工具方法论
+        - title: 'apprcncom'
+          url: http://www.apprcn.com/
+          logo: apprcncom.png
+          description: 新奇/免费软件分享
+        - title: 'topbookcc'
+          url: https://topbook.cc/
+          logo: topbookcc.png
+          description: 高效生活视频书
+
+- taxonomy: 精选脚本
+  icon: fa  
+  list:
+    - term: 精选脚本
+      links:
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
+          logo: greasyforkorg.png
+          description: 优化搜索引擎使用体验
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/27752-searchenginejump-%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC
+          logo: greasyforkorg.png
+          description: 快速切换搜索引擎
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5
+          logo: greasyforkorg.png
+          description: 无缝加载网站下一页
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/2998-search-by-image
+          logo: greasyforkorg.png
+          description: 多引擎以图搜图
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/405130-%E6%96%87%E6%9C%AC%E9%80%89%E4%B8%AD%E5%A4%8D%E5%88%B6
+          logo: greasyforkorg.png
+          description: 解除网站复制限制
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/398746-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91
+          logo: greasyforkorg.png
+          description: 谷歌网页翻译
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/416338
+          logo: greasyforkorg.png
+          description: 去除网站链接跳转
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD
+          logo: greasyforkorg.png
+          description: Github 高速下载
+        - title: 'githubcom'
+          url: https://github.com/the1812/Bilibili-Evolved
+          logo: githubcom.png
+          description: 最强B站增强脚本
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/413228-bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD
+          logo: greasyforkorg.png
+          description: 视频/弹幕/字幕下载
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/419081-%E7%9F%A5%E4%B9%8E%E5%A2%9E%E5%BC%BA
+          logo: greasyforkorg.png
+          description: 知乎浏览增强
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/406070-%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E5%99%A8
+          logo: greasyforkorg.png
+          description: 通用型小说下载器
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9
+          logo: greasyforkorg.png
+          description: 解除复制/右键菜单限制
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/34153-pixiv-plus
+          logo: greasyforkorg.png
+          description: Pixiv 浏览增强工具
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8
+          logo: greasyforkorg.png
+          description: 控制网页计时器速度
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/292-my-novel-reader
+          logo: greasyforkorg.png
+          description: 小说阅读模式
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/419894-image-downloader
+          logo: greasyforkorg.png
+          description: 图片提取/批量下载
+        - title: 'greasyforkorg'
+          url: https://greasyfork.org/zh-CN/scripts/24204
+          logo: greasyforkorg.png
+          description: 在线看图辅助工具
+
+# - taxonomy: 正版软件
+#   icon: fa  
+#   list:
+#     - term: 正版软件
+#       links:
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/335?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 1T OneDrive 真香
+#         - title: 'aivsio'
+#           url: https://aivs.io/My0JlX
+#           logo: aivsio.png
+#           description: 正版 Win10，可升 Win11
+#         - title: 'aivsio'
+#           url: https://aivs.io/PO3uxQ
+#           logo: aivsio.png
+#           description: Win11 家庭版/专业版2折
+#         - title: 'aivsio'
+#           url: https://aivs.io/QkmKme
+#           logo: aivsio.png
+#           description: 2019 版性价比最高
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/325?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 最佳高速下载软件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/39?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 栅栏式桌面图标整理工具
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/520?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 一流的 Markdown 编辑器
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/31?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 多平台广告拦截工具
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/36?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 跨平台OCR识别软件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/63?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 专业软件卸载工具
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/307?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 巨好用的压缩解压软件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/280?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 最佳Mac在线视频下载软件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/41?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: PPT 设计美化辅助插件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/523?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 全局鼠标手势软件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/58?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 文件搜索&快速启动神器
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/40?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 软件窗口合并标签化工具
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/233?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: Win11 找回旧版开始菜单
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/263?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 超强的多标签文件管理器
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/92?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 最强 Mac 虚拟机软件，送 Win11
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/342?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 窗口置顶透明度修改工具
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/47?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 全平台思维导图软件
+#         - title: 'storelizhiio'
+#           url: https://store.lizhi.io/site/products/id/454?cid=2yj7gln9
+#           logo: storelizhiio.png
+#           description: 全能Win/Mac音视频下载器
+
+- taxonomy: 在线学习
+  icon: fa  
+  list:
+    - term: 在线学习
+      links:
+        - title: 'icvecomcn'
+          url: https://www.icve.com.cn/
+          logo: icvecomcn.png
+          description: 职业教育教学资源库
+        - title: 'booksciencereadingcn'
+          url: https://book.sciencereading.cn/
+          logo: booksciencereadingcn.png
+          description: 高质量学术专著和教材
+        - title: 'duolingocom'
+          url: https://www.duolingo.com/
+          logo: duolingocom.png
+          description: 学习外语的最佳途径
+        - title: 'doyoudocom'
+          url: https://www.doyoudo.com/
+          logo: doyoudocom.png
+          description: 设计/后期剪辑教程
+        - title: 'oeasyorg'
+          url: http://oeasy.org/
+          logo: oeasyorg.png
+          description: 免费技能学习教程
+        - title: 'zhentiburningvocabularycom'
+          url: https://zhenti.burningvocabulary.com/
+          logo: zhentiburningvocabularycom.png
+          description: 四六级考研英语真题
+        - title: 'tjxzcc'
+          url: https://www.tjxz.cc/
+          logo: tjxzcc.png
+          description: 高级英语学习
+        - title: 'dicteudicnet'
+          url: https://dict.eudic.net/ting
+          logo: dicteudicnet.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'reswokanxinginfo'
+          url: https://res.wokanxing.info/jpgramma/
+          logo: reswokanxinginfo.png
+          description: 日语语法学习
+        - title: 'ucdrssuperlibnet'
+          url: http://www.ucdrs.superlib.net/
+          logo: ucdrssuperlibnet.png
+          description: 数字图书馆
+        - title: '51zxwnet'
+          url: https://www.51zxw.net/
+          logo: 51zxwnet.png
+          description: 专业软件使用进阶教程
+        - title: 'zoudupaicom'
+          url: http://www.zoudupai.com/
+          logo: zoudupaicom.png
+          description: 读书学习第一站
+        - title: 'xue8navcom'
+          url: https://www.xue8nav.com/
+          logo: xue8navcom.png
+          description: 学习导航网站
+        - title: 'en123net'
+          url: https://www.en123.net/
+          logo: en123net.png
+          description: 英语学习网站导航
+        - title: 'studyhardcf'
+          url: https://studyhard.cf/
+          logo: studyhardcf.png
+          description: 各大高校课程资源汇总
+        - title: 'gkzenticn'
+          url: https://www.gkzenti.cn/
+          logo: gkzenticn.png
+          description: 考公/资格证/软考真题库
+        - title: 'lanrenexcelcom'
+          url: https://www.lanrenexcel.com/
+          logo: lanrenexcelcom.png
+          description: Excel 教程大全
+        - title: 'enpuzcom'
+          url: http://enpuz.com/
+          logo: enpuzcom.png
+          description: 英语句子语法分析
+
+- taxonomy: 知识扩展
+  icon: fa  
+  list:
+    - term: 知识扩展
+      links:
+        - title: 'allhistorycom'
+          url: https://www.allhistory.com/
+          logo: allhistorycom.png
+          description: 很不错的历史扩展学习网站
+        - title: 'wufazhucecom'
+          url: https://wufazhuce.com/
+          logo: wufazhucecom.png
+          description: 复杂世界里, 一个就够了.
+        - title: 'kepuchinacn'
+          url: https://www.kepuchina.cn/
+          logo: kepuchinacn.png
+          description: 科普信息内容和资讯
+        - title: 'kepunetcn'
+          url: http://www.kepu.net.cn/
+          logo: kepunetcn.png
+          description: 综合性的科学传播平台
+        - title: 'ixiguacom'
+          url: https://www.ixigua.com/channel/jilupian
+          logo: ixiguacom.png
+          description: 热门纪录片大全
+        - title: 'bilibilicom'
+          url: https://www.bilibili.com/documentary
+          logo: bilibilicom.png
+          description: (゜-゜)つロ 干杯~
+        - title: 'zhwikihowcom'
+          url: https://zh.wikihow.com/
+          logo: zhwikihowcom.png
+          description: 你可以信赖的万事指南
+        - title: 'guokrcom'
+          url: https://www.guokr.com/
+          logo: guokrcom.png
+          description: 泛科普科学文化平台
+        - title: 'tvcctvcom'
+          url: https://tv.cctv.com/lm/bjjt/
+          logo: tvcctvcom.png
+          description: CCTV节目官网
+        - title: 'dpmorgcn'
+          url: https://www.dpm.org.cn/
+          logo: dpmorgcn.png
+          description: 故宫数字历史博物馆
+        - title: 'open163com'
+          url: https://open.163.com/
+          logo: open163com.png
+          description: 高校视频课程
+        - title: 'yixitv'
+          url: https://yixi.tv/#/home
+          logo: yixitv.png
+          description: 分享见解的演讲节目
+        - title: 'tedcom'
+          url: https://www.ted.com/
+          logo: tedcom.png
+          description: 著名的TED演讲
+        - title: 'gushiwencn'
+          url: https://www.gushiwen.cn/
+          logo: gushiwencn.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'termonlinecn'
+          url: https://www.termonline.cn/
+          logo: termonlinecn.png
+          description: 权威术语知识平台
+        - title: 'shenyandayicom'
+          url: https://www.shenyandayi.com/
+          logo: shenyandayicom.png
+          description: 反向查词/据意查句
+        - title: 'zdicnet'
+          url: https://www.zdic.net/
+          logo: zdicnet.png
+          description: 辞典/古籍/诗词/书法/通识
+        - title: 'xyzrankcom'
+          url: https://xyzrank.com/
+          logo: xyzrankcom.png
+          description: 在线播客聚合
+        - title: 'zgbkcom'
+          url: https://www.zgbk.com/
+          logo: zgbkcom.png
+          description: 中华文化权威指南
+        - title: 'sou-yuncn'
+          url: https://sou-yun.cn/
+          logo: sou-yuncn.png
+          description: 诗词知识及工具
+        - title: 'historylineonline'
+          url: https://www.historyline.online/
+          logo: historylineonline.png
+          description: 中国历朝代视频讲解
+        - title: 'qreadxmsoushucom'
+          url: https://qread.xmsoushu.com/
+          logo: qreadxmsoushucom.png
+          description: 精品读书视频
+
+- taxonomy: 编程开发
+  icon: fa  
+  list:
+    - term: 编程开发
+      links:
+        - title: 'runoobcom'
+          url: https://www.runoob.com/
+          logo: runoobcom.png
+          description: 超全面的IT编程教程
+        - title: 'developermozillaorg'
+          url: https://developer.mozilla.org/zh-CN/
+          logo: developermozillaorg.png
+          description: Web 开发技术手册
+        - title: 'docsmicrosoftcom'
+          url: https://docs.microsoft.com/zh-cn/learn/
+          logo: docsmicrosoftcom.png
+          description: 微软开发学习平台
+        - title: 'w3schoolcomcn'
+          url: https://www.w3school.com.cn/
+          logo: w3schoolcomcn.png
+          description: Web 技术教程
+        - title: 'liaoxuefengcom'
+          url: https://www.liaoxuefeng.com/
+          logo: liaoxuefengcom.png
+          description: 免费编程教程
+        - title: 'cnlinuxvbirdorg'
+          url: http://cn.linux.vbird.org/
+          logo: cnlinuxvbirdorg.png
+          description: 最佳Linux入门教程
+        - title: 'backlogcom'
+          url: https://backlog.com/git-tutorial/cn/
+          logo: backlogcom.png
+          description: 简单易懂的Git系列教程
+        - title: 'bootcsscom'
+          url: https://www.bootcss.com/p/git-guide/
+          logo: bootcsscom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'deerchaocn'
+          url: https://deerchao.cn/tutorials/regex/regex.htm
+          logo: deerchaocn.png
+          description: 正则入门手册
+        - title: 'regexlearncom'
+          url: https://regexlearn.com/zh-cn
+          logo: regexlearncom.png
+          description: 正则从零基础到高阶
+        - title: 'r2codingcom'
+          url: https://r2coding.com/
+          logo: r2codingcom.png
+          description: 编程自学之路
+        - title: 'githubcom'
+          url: https://github.com/Jackpopc/CS-Books-Store
+          logo: githubcom.png
+          description: 计算机经典书籍下载
+        - title: 'wangchujiangcom'
+          url: https://wangchujiang.com/reference/
+          logo: wangchujiangcom.png
+          description: 开发人员编程速查手册
+        - title: 'leetcodecom'
+          url: https://leetcode.com/
+          logo: leetcodecom.png
+          description: 在线编程练习网站
+        - title: 'freecodecamporg'
+          url: https://www.freecodecamp.org/
+          logo: freecodecamporg.png
+          description: 免费编程学习网站
+        - title: 'regexai'
+          url: https://regex.ai/
+          logo: regexai.png
+          description: AI正则表达式生成器
+        - title: 'wangchujiangcom'
+          url: https://wangchujiang.com/mysql-tutorial/index.html
+          logo: wangchujiangcom.png
+          description: 从零开始学习MySQL
+
+- taxonomy: 在线游戏
+  icon: fa  
+  list:
+    - term: 在线游戏
+      links:
+        - title: 'v2fycom'
+          url: https://www.v2fy.com/game/tetris/
+          logo: v2fycom.png
+          description: 放松神器
+        - title: 'yorgio'
+          url: https://yorg.io/
+          logo: yorgio.png
+          description: 超耐玩的塔防游戏
+        - title: 'crazygamescom'
+          url: https://www.crazygames.com/
+          logo: crazygamescom.png
+          description: 免费在线小游戏合集
+        - title: 'slitherio'
+          url: http://slither.io/
+          logo: slitherio.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'mazetoys'
+          url: https://maze.toys/
+          logo: mazetoys.png
+          description: 多种模式的迷宫游戏
+        - title: 'dccxicom'
+          url: https://dccxi.com/trust/
+          logo: dccxicom.png
+          description: 从游戏了解博弈论
+        - title: 'linesfrvrcom'
+          url: https://lines.frvr.com/
+          logo: linesfrvrcom.png
+          description: 点线益智游戏
+        - title: 'aidnjp'
+          url: https://aidn.jp/mikutap/
+          logo: aidnjp.png
+          description: 很魔性的音乐游戏
+        - title: 'cngame-gamecom'
+          url: https://cn.game-game.com/
+          logo: cngame-gamecom.png
+          description: 上千款免费在线游戏
+        - title: 'yikmnet'
+          url: https://www.yikm.net/
+          logo: yikmnet.png
+          description: 街机/小霸王/H5游戏
+        - title: 'thisissandcom'
+          url: https://thisissand.com/
+          logo: thisissandcom.png
+          description: 在线画沙画
+        - title: 'iss-simspacexcom'
+          url: https://iss-sim.spacex.com/
+          logo: iss-simspacexcom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'liferestartsyaroio'
+          url: https://liferestart.syaro.io/public/index.html
+          logo: liferestartsyaroio.png
+          description: 人生重开模拟器
+        - title: 'play-cscom'
+          url: https://play-cs.com/zh/servers
+          logo: play-cscom.png
+          description: 免客户端联机
+        - title: 'bruno-simoncom'
+          url: https://bruno-simon.com/
+          logo: bruno-simoncom.png
+          description: 开车小游戏
+        - title: 'papergamesio'
+          url: https://papergames.io/zh/
+          logo: papergamesio.png
+          description: 棋类游戏在线对战
+        - title: 'playokcom'
+          url: https://www.playok.com/
+          logo: playokcom.png
+          description: 在线棋牌真人对弈
+        - title: 'ztype'
+          url: https://zty.pe/
+          logo: ztype.png
+          description: 练习打字的射击游戏
+        - title: 'microsoftcom'
+          url: https://www.microsoft.com/en-us/edge/surf
+          logo: microsoftcom.png
+          description: 微软网页冲浪游戏
+        - title: 'msncn'
+          url: https://www.msn.cn/zh-cn/play
+          logo: msncn.png
+          description: 微软网页小游戏
+        - title: 'slowroadsio'
+          url: https://slowroads.io/
+          logo: slowroadsio.png
+          description: 公路无尽驾驶
+        - title: 'enazocn'
+          url: https://enazo.cn/
+          logo: enazocn.png
+          description: 你画我猜
+        - title: 'yandexcom'
+          url: https://yandex.com/games/zh
+          logo: yandexcom.png
+          description: 免费在线游戏
+        - title: 'jxgamenet'
+          url: https://jxgame.net/
+          logo: jxgamenet.png
+          description: 精选益智小游戏
+        - title: 'fuunfun'
+          url: https://fuun.fun/
+          logo: fuunfun.png
+          description: 有趣的摸鱼小游戏
+        - title: 'chesscom'
+          url: https://www.chess.com/zh
+          logo: chesscom.png
+          description: 世界第一国际象棋网站
+        - title: 'ra2webcom'
+          url: https://ra2web.com/
+          logo: ra2webcom.png
+          description: 红色警戒2网页版
+        - title: 'minesweeperplayonline'
+          url: https://minesweeperplay.online/
+          logo: minesweeperplayonline.png
+          description: 经典扫雷游戏
+        - title: 'rubiks-cube-solvercom'
+          url: https://rubiks-cube-solver.com/zh/
+          logo: rubiks-cube-solvercom.png
+          description: 魔方复原助手
+
+- taxonomy: 趣味休闲
+  icon: fa  
+  list:
+    - term: 趣味休闲
+      links:
+        - title: 'panodpmorgcn'
+          url: https://pano.dpm.org.cn/gugong_pano/index.html
+          logo: panodpmorgcn.png
+          description: 在线逛故宫
+        - title: 'zhijianshangcom'
+          url: https://www.zhijianshang.com/
+          logo: zhijianshangcom.png
+          description: 全球景点360°全景
+        - title: 'xmagiconchcom'
+          url: https://x.magiconch.com/
+          logo: xmagiconchcom.png
+          description: 自制梗图
+        - title: 'labmagiconchcom'
+          url: https://lab.magiconch.com/one-last-image/
+          logo: labmagiconchcom.png
+          description: One Last Kiss 封面生成器
+        - title: 'mniucodatacom'
+          url: https://m.niucodata.com/cat/
+          logo: mniucodatacom.png
+          description: 听猫打呼噜
+        - title: 'guozhivipcom'
+          url: http://guozhivip.com/eat/
+          logo: guozhivipcom.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'skylinewebcamscom'
+          url: https://www.skylinewebcams.com/
+          logo: skylinewebcamscom.png
+          description: 全球实况街景
+        - title: 'fakeupdatenet'
+          url: https://fakeupdate.net/
+          logo: fakeupdatenet.png
+          description: 假装 Windows 升级界面
+        - title: 'labmagiconchcom'
+          url: https://lab.magiconch.com/china-ex/
+          logo: labmagiconchcom.png
+          description: 热门地图标记生成工具
+        - title: 'airpanoorgcn'
+          url: https://airpano.org.cn/
+          logo: airpanoorgcn.png
+          description: 全球360°虚拟游览
+        - title: 'jiugethunlporg'
+          url: http://jiuge.thunlp.org/
+          logo: jiugethunlporg.png
+          description: 人工智能诗歌写作系统
+        - title: 'niemaotop'
+          url: http://niemao.top/
+          logo: niemaotop.png
+          description: 实现捏猫自由
+        - title: 'liveipandacom'
+          url: https://live.ipanda.com/xmcd/
+          logo: liveipandacom.png
+          description: 全景熊猫直播
+        - title: 'nealfun'
+          url: https://neal.fun/wonders-of-street-view/
+          logo: nealfun.png
+          description: 随机传送到世界各地
+        - title: 'anitabicn'
+          url: https://anitabi.cn/
+          logo: anitabicn.png
+          description: (๑•̀ㅂ•́)و✧
+        - title: 'pintuxiacom'
+          url: http://pintuxia.com/
+          logo: pintuxiacom.png
+          description: 在线玩拼图
+        - title: 'gallerixasia'
+          url: https://gallerix.asia/
+          logo: gallerixasia.png
+          description: 在线数字博物馆
+        - title: 'picrewme'
+          url: https://picrew.me/
+          logo: picrewme.png
+          description: 自己捏头像
+        - title: 'labmagiconchcom'
+          url: https://lab.magiconch.com/anime-grid/
+          logo: labmagiconchcom.png
+          description: 生成动画个人喜好表
+        - title: 'eyebleachme'
+          url: https://eyebleach.me/
+          logo: eyebleachme.png
+          description: 治愈图片轮播
+        - title: 'hi2futurecom'
+          url: https://www.hi2future.com/
+          logo: hi2futurecom.png
+          description: 给未来写封信
+        - title: 'gonyancattop'
+          url: https://go.nyancat.top/
+          logo: gonyancattop.png
+          description: 发现好音乐
+        - title: 'autopianocn'
+          url: https://www.autopiano.cn/
+          logo: autopianocn.png
+          description: 在线模拟钢琴
+        - title: 'window-swapcom'
+          url: https://www.window-swap.com/Window
+          logo: window-swapcom.png
+          description: 窗外风景直播
+        - title: 'e-dunhuangcom'
+          url: https://www.e-dunhuang.com/
+          logo: e-dunhuangcom.png
+          description: 在线逛敦煌石窟
+        - title: 'todaydemochencom'
+          url: https://today.demochen.com/
+          logo: todaydemochencom.png
+          description: 分享天空的颜色
+        - title: 'cikeeecc'
+          url: https://www.cikeee.cc/
+          logo: cikeeecc.png
+          description: 每天一部优秀电影
+        - title: 'dbbqbcom'
+          url: https://www.dbbqb.com/
+          logo: dbbqbcom.png
+          description: 专业表情包搜索网站
 
