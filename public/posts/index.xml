@@ -1,724 +1,724 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on WebStack-Hugo 网址导航</title>
-    <link>https://bioit.top/posts/</link>
-    <description>Recent content in Posts on WebStack-Hugo 网址导航</description>
+    <title>Posts on jackssybin网址导航</title>
+    <link>https://tools.jackssybin.cn/posts/</link>
+    <description>Recent content in Posts on jackssybin网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <atom:link href="https://bioit.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tools.jackssybin.cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201907/Lists.transform%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E9%87%87%E5%9D%91/</link>
+      <link>https://tools.jackssybin.cn/posts/201907/Lists.transform%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E9%87%87%E5%9D%91/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201907/Lists.transform%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E9%87%87%E5%9D%91/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201907/Lists.transform%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E9%87%87%E5%9D%91/</guid>
       <description>title: Lists.transform的使用和采坑 date: &amp;lsquo;2019-07-31 18:28:43&amp;rsquo; updated: &amp;lsquo;2019-07-31 18:36:45&amp;rsquo; tags: [guava] permalink: /articles/2019/07/31/1564568923421.html Lists.transform的使用 Lists.transform：能够轻松</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201907/%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</link>
+      <link>https://tools.jackssybin.cn/posts/201907/%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201907/%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201907/%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</guid>
       <description>title: 我在 GitHub 上的开源项目 date: &amp;lsquo;2019-07-31 12:05:03&amp;rsquo; updated: &amp;lsquo;2019-07-31 12:05:03&amp;rsquo; tags: [开源, GitHub] permalink: /my-github-repos 1. boot_base_all Java ?2 ⭐️2 ?1 2. work_base Java ?1 ⭐️0 ?0 3. jackssybin.github.io HTML ?1 ⭐️0 ?0 4. rust_items Rust ?1 ⭐️0 ?0 5. test-jackssy Java ?1 ⭐️0 ?0 6. kaisagroup_plateform Java ?1 ⭐️</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/1.springbootmybatisplusgenerate%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/1.springbootmybatisplusgenerate%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/1.springbootmybatisplusgenerate%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/1.springbootmybatisplusgenerate%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90/</guid>
       <description>title: 1.springboot+mybatisplus+generate 自动生成 date: &amp;lsquo;2019-08-15 01:46:18&amp;rsquo; updated: &amp;lsquo;2019-08-15 02:29:19&amp;rsquo; tags: [java] permalink: /articles/2019/08/15/1565804778217.html 1.官网生成springboot https://start.spring.io/ 2.mybatis-plus官网生成 mybatis-plus官网快速开始 3.spring</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/1.win10%E4%B8%8Bpython2%E5%92%8Cpython3%E5%85%B1%E5%AD%98/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/1.win10%E4%B8%8Bpython2%E5%92%8Cpython3%E5%85%B1%E5%AD%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/1.win10%E4%B8%8Bpython2%E5%92%8Cpython3%E5%85%B1%E5%AD%98/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/1.win10%E4%B8%8Bpython2%E5%92%8Cpython3%E5%85%B1%E5%AD%98/</guid>
       <description>title: 1.win10下python2和python3共存 date: &amp;lsquo;2019-08-04 10:46:09&amp;rsquo; updated: &amp;lsquo;2019-08-04 10:47:04&amp;rsquo; tags: [python学习] permalink: /articles/2019/08/04/1564886769156.html windows 下安装python 环境使python2和pyth</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/2.pytho2%E5%90%84%E7%A7%8D%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/2.pytho2%E5%90%84%E7%A7%8D%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/2.pytho2%E5%90%84%E7%A7%8D%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/2.pytho2%E5%90%84%E7%A7%8D%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
       <description>title: 2.pytho2 各种环境安装 date: &amp;lsquo;2019-08-04 12:39:41&amp;rsquo; updated: &amp;lsquo;2019-08-05 18:24:19&amp;rsquo; tags: [python学习] permalink: /articles/2019/08/04/1564893581000.html pytho2 各种环境安装 Python2 安装MySQLdb库 python2.exe -m pip install mysqlclient==1.3.12 各种报错，搜索搜索，找到 https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysql-python 去下载对应环境</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/2.win10%E4%B8%8Bpython2%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/2.win10%E4%B8%8Bpython2%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/2.win10%E4%B8%8Bpython2%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/2.win10%E4%B8%8Bpython2%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96/</guid>
       <description>title: 2.win10下python2爬虫美女图片逐步优化 date: &amp;lsquo;2019-08-05 01:18:28&amp;rsquo; updated: &amp;lsquo;2019-08-05 18:58:36&amp;rsquo; tags: [python学习] permalink: /articles/2019/08/05/1564939108185.html # -*- coding: utf-8 -* #完成通用爬虫，抓取一个页面队列中所有图</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/3.win10%E4%B8%8Bpython3%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%89%88%E6%9C%AC/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/3.win10%E4%B8%8Bpython3%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%89%88%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/3.win10%E4%B8%8Bpython3%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%89%88%E6%9C%AC/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/3.win10%E4%B8%8Bpython3%E7%88%AC%E8%99%AB%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87%E9%80%90%E6%AD%A5%E4%BC%98%E5%8C%96%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%89%88%E6%9C%AC/</guid>
       <description>title: 3.win10下python3爬虫美女图片逐步优化（多线程版本） date: &amp;lsquo;2019-08-13 02:28:19&amp;rsquo; updated: &amp;lsquo;2019-08-16 00:19:36&amp;rsquo; tags: [python学习] permalink: /articles/2019/08/13/1565634499211.html # coding: utf-8 import re import os import time import threading from multiprocessing import Pool, cpu_count import requests</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/python%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/python%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/python%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/python%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97/</guid>
       <description>title: python基础之常用模块 date: &amp;lsquo;2019-08-03 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-11-04 12:24:12&amp;rsquo; tags: [python学习] permalink: /articles/2019/09/16/1568646255462.html Python生成requirements.txt方法 pip freeze &amp;gt; requirements.txt 安装requi</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/python%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A5%9E%E5%99%A8requests/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/python%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A5%9E%E5%99%A8requests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/python%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A5%9E%E5%99%A8requests/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/python%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%A5%9E%E5%99%A8requests/</guid>
       <description>title: python第二大神器requests date: &amp;lsquo;2019-08-29 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-08-29 20:53:19&amp;rsquo; tags: [python学习] permalink: /articles/2019/09/16/1568643366664.html 首先你要安装requests库 安装代码：pip3 install requests 如果你没有</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/%E4%B8%89%E5%A4%A7%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/%E4%B8%89%E5%A4%A7%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/%E4%B8%89%E5%A4%A7%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/%E4%B8%89%E5%A4%A7%E8%A7%A3%E6%9E%90%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
       <description>title: 三大解析库的使用 date: &amp;lsquo;2019-08-30 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-08-30 20:53:19&amp;rsquo; tags: [python学习, scrapy] permalink: /articles/2019/09/16/1568642979330.html 1，XPath的使用 在使用前，需要安装lxml库。 安装代码：pip3 install lxml 1.1XP</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201908/%E7%88%AC%E8%99%AB%E4%B9%8Burllib%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/201908/%E7%88%AC%E8%99%AB%E4%B9%8Burllib%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201908/%E7%88%AC%E8%99%AB%E4%B9%8Burllib%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201908/%E7%88%AC%E8%99%AB%E4%B9%8Burllib%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
       <description>title: 爬虫之urllib库的使用 date: &amp;lsquo;2019-08-28 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-08-28 20:53:19&amp;rsquo; tags: [python学习] permalink: /articles/2019/09/16/1568643489909.html 首先什么是库？ 简单的说就是别人写好的东西，你拿来调用就可以实现基本的操作。</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%861/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%861/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%861/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%861/</guid>
       <description>title: Java虚拟机（JVM）你只要看这一篇就够了！（1） date: &amp;lsquo;2019-09-08 21:33:18&amp;rsquo; updated: &amp;lsquo;2019-09-08 21:33:18&amp;rsquo; tags: [java, jvm, 垃圾回收算法] permalink: /articles/2019/09/17/1568731586414.html 1. Java 内存区域与内存溢出异常 1.1 运行时数据区域 根据《J</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A82/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A82/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/Java%E8%99%9A%E6%8B%9F%E6%9C%BAJVM%E4%BD%A0%E5%8F%AA%E8%A6%81%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A82/</guid>
       <description>title: Java虚拟机（JVM）你只要看这一篇就够了！垃圾回收器（2） date: &amp;lsquo;2019-09-09 21:33:18&amp;rsquo; updated: &amp;lsquo;2020-11-13 10:18:40&amp;rsquo; tags: [待分类, java, 垃圾回收算法, jvm] permalink: /articles/2019/09/17/1568733889287.html 2.5 垃圾回收器 收集算法是内存回收</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B9%8B%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B9%8B%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B9%8B%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B9%8B%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
       <description>title: Rust 学习一之环境安装 date: &amp;lsquo;2019-09-21 00:28:19&amp;rsquo; updated: &amp;lsquo;2019-09-21 16:12:05&amp;rsquo; tags: [学习] permalink: /articles/2019/09/21/1568996899251.html 1.社区 https://rustlang-cn.org/ 2.环境安装 windows 下载地址 https://www.rust-lang.org/install.html 下载完之后》rustup-init.exe 直接安装走默认的就</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B9%8B%E4%BA%8C%E7%8C%9C%E5%AD%97%E8%B0%9C/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B9%8B%E4%BA%8C%E7%8C%9C%E5%AD%97%E8%B0%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B9%8B%E4%BA%8C%E7%8C%9C%E5%AD%97%E8%B0%9C/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/Rust%E5%AD%A6%E4%B9%A0%E4%B9%8B%E4%BA%8C%E7%8C%9C%E5%AD%97%E8%B0%9C/</guid>
       <description>title: Rust学习之二猜字谜 date: &amp;lsquo;2019-09-24 16:07:42&amp;rsquo; updated: &amp;lsquo;2019-09-24 16:07:42&amp;rsquo; tags: [Rust学习] permalink: /articles/2019/09/24/1569312462439.html 1.首先cargo一个项目 cargo new guessing_game 2.修改toxml 添加依赖 [dependencies] rand = &amp;#34;0.3.14&amp;#34; 3.切换数据源,</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8Djava%E8%BF%9B%E7%A8%8B%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%9C%80%E8%80%97%E5%86%85%E5%AD%98%E7%9A%84%E8%BF%9B%E7%A8%8B/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8Djava%E8%BF%9B%E7%A8%8B%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%9C%80%E8%80%97%E5%86%85%E5%AD%98%E7%9A%84%E8%BF%9B%E7%A8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8Djava%E8%BF%9B%E7%A8%8B%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%9C%80%E8%80%97%E5%86%85%E5%AD%98%E7%9A%84%E8%BF%9B%E7%A8%8B/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8Djava%E8%BF%9B%E7%A8%8B%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%9C%80%E8%80%97%E5%86%85%E5%AD%98%E7%9A%84%E8%BF%9B%E7%A8%8B/</guid>
       <description>title: 如何定位java进程中使用最耗内存的进程 date: &amp;lsquo;2019-09-23 17:17:37&amp;rsquo; updated: &amp;lsquo;2019-11-18 11:06:56&amp;rsquo; tags: [java, jstack, 线程, 调优] permalink: /articles/2019/09/23/1569230256915.html 1.清除进程和线程的关系 2.知道linux查看进程对应线程的命令</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%981%E7%88%AC%E5%8F%96%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%9B%BE%E7%89%87/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%981%E7%88%AC%E5%8F%96%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%9B%BE%E7%89%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%981%E7%88%AC%E5%8F%96%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%9B%BE%E7%89%87/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%981%E7%88%AC%E5%8F%96%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%9B%BE%E7%89%87/</guid>
       <description>title: 实战1爬取百度贴吧图片 date: &amp;lsquo;2019-09-02 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-09-02 20:53:19&amp;rsquo; tags: [python学习, python实战] permalink: /articles/2019/09/16/1568643605581.html 1，目标： 爬取贴吧每一贴，楼主图，并保存。 由于图片大多是楼主</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%982%E4%B9%8B%E7%88%AC%E5%8F%96%E8%A1%A8%E6%83%85%E5%8C%85/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%982%E4%B9%8B%E7%88%AC%E5%8F%96%E8%A1%A8%E6%83%85%E5%8C%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%982%E4%B9%8B%E7%88%AC%E5%8F%96%E8%A1%A8%E6%83%85%E5%8C%85/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%982%E4%B9%8B%E7%88%AC%E5%8F%96%E8%A1%A8%E6%83%85%E5%8C%85/</guid>
       <description>title: 实战2之爬取表情包 date: &amp;lsquo;2019-09-03 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-09-03 20:53:19&amp;rsquo; tags: [python学习, scrapy] permalink: /articles/2019/09/16/1568643753095.html 一、爬取表情包思路（http://www.doutula.com） 1、打开网站，</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%983Selenium%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E%E5%B9%B6%E7%88%AC%E5%8F%96%E4%BF%A1%E6%81%AF/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%983Selenium%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E%E5%B9%B6%E7%88%AC%E5%8F%96%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%983Selenium%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E%E5%B9%B6%E7%88%AC%E5%8F%96%E4%BF%A1%E6%81%AF/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%983Selenium%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E7%99%BB%E5%BD%95%E7%9F%A5%E4%B9%8E%E5%B9%B6%E7%88%AC%E5%8F%96%E4%BF%A1%E6%81%AF/</guid>
       <description>title: 实战3Selenium的基本使用-登录知乎并爬取信息 date: &amp;lsquo;2019-09-04 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-09-17 16:11:52&amp;rsquo; tags: [python实战, scrapy] permalink: /articles/2019/09/16/1568647646783.html 由于 JavaScript 动态渲染的页面不止 Ajax 这一种，有些网站获取</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%984Scrapy%E8%87%AA%E5%8A%A8%E7%88%AC%E5%8F%96%E8%85%BE%E8%AE%AF%E6%8B%9B%E8%81%98%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%984Scrapy%E8%87%AA%E5%8A%A8%E7%88%AC%E5%8F%96%E8%85%BE%E8%AE%AF%E6%8B%9B%E8%81%98%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%984Scrapy%E8%87%AA%E5%8A%A8%E7%88%AC%E5%8F%96%E8%85%BE%E8%AE%AF%E6%8B%9B%E8%81%98%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%984Scrapy%E8%87%AA%E5%8A%A8%E7%88%AC%E5%8F%96%E8%85%BE%E8%AE%AF%E6%8B%9B%E8%81%98%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF/</guid>
       <description>title: 实战4Scrapy自动爬取腾讯招聘职位信息 date: &amp;lsquo;2019-09-05 20:53:19&amp;rsquo; updated: &amp;lsquo;2019-09-17 01:06:30&amp;rsquo; tags: [scrapy, python实战] permalink: /articles/2019/09/17/1568651606327.html 创建爬虫项目: scrapy startproject 项目名 scrapy startproject tencent 查看当前可以使用的爬虫模板:</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%985%E6%8A%93%E5%8F%96%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95%E4%BF%A1%E6%81%AFrequests%E5%A4%9A%E8%BF%9B%E7%A8%8B/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%985%E6%8A%93%E5%8F%96%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95%E4%BF%A1%E6%81%AFrequests%E5%A4%9A%E8%BF%9B%E7%A8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E5%AE%9E%E6%88%985%E6%8A%93%E5%8F%96%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95%E4%BF%A1%E6%81%AFrequests%E5%A4%9A%E8%BF%9B%E7%A8%8B/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E5%AE%9E%E6%88%985%E6%8A%93%E5%8F%96%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95%E4%BF%A1%E6%81%AFrequests%E5%A4%9A%E8%BF%9B%E7%A8%8B/</guid>
       <description>title: 实战5抓取猫眼电影榜单信息（requests+多进程） date: &amp;lsquo;2019-09-06 21:33:18&amp;rsquo; updated: &amp;lsquo;2019-09-06 21:33:18&amp;rsquo; tags: [python实战, python学习] permalink: /articles/2019/09/17/1568727178145.html 1.目标网址https://</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E6%9D%A5%E6%9D%A5scrapy%E7%88%AC%E5%8F%96%E5%90%84%E5%A4%A7%E7%BD%91%E7%AB%99%E6%AF%8F%E6%97%A5%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E6%9D%A5%E6%9D%A5scrapy%E7%88%AC%E5%8F%96%E5%90%84%E5%A4%A7%E7%BD%91%E7%AB%99%E6%AF%8F%E6%97%A5%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E6%9D%A5%E6%9D%A5scrapy%E7%88%AC%E5%8F%96%E5%90%84%E5%A4%A7%E7%BD%91%E7%AB%99%E6%AF%8F%E6%97%A5%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E6%9D%A5%E6%9D%A5scrapy%E7%88%AC%E5%8F%96%E5%90%84%E5%A4%A7%E7%BD%91%E7%AB%99%E6%AF%8F%E6%97%A5%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB/</guid>
       <description>title: 来来scrapy爬取各大网站每日热点新闻 date: &amp;lsquo;2019-09-20 01:22:57&amp;rsquo; updated: &amp;lsquo;2019-09-22 00:33:49&amp;rsquo; tags: [数据库, scrapy, python实战, python学习] permalink: /articles/2019/09/20/1568913777036.html 一.背景 最近玩爬虫，各种想爬，s</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%B8%8D%E4%BD%8F%E4%B8%8D%E6%B8%85%E6%A5%9A%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9java/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%B8%8D%E4%BD%8F%E4%B8%8D%E6%B8%85%E6%A5%9A%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%B8%8D%E4%BD%8F%E4%B8%8D%E6%B8%85%E6%A5%9A%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9java/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%B8%8D%E4%BD%8F%E4%B8%8D%E6%B8%85%E6%A5%9A%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9java/</guid>
       <description>title: 永远记不住不清楚的知识点java date: &amp;lsquo;2019-09-12 16:01:36&amp;rsquo; updated: &amp;lsquo;2019-09-12 16:03:40&amp;rsquo; tags: [java] permalink: /articles/2019/09/12/1568275296571.html 永远记不住不清楚的知识点java 1，HashMap实现原理，ConcurrentHas</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6Scrapy%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6Scrapy%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6Scrapy%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6Scrapy%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid>
       <description>title: 爬虫框架Scrapy的安装与基本使用 date: &amp;lsquo;2019-09-01 21:53:19&amp;rsquo; updated: &amp;lsquo;2019-09-01 21:53:19&amp;rsquo; tags: [scrapy, python学习] permalink: /articles/2019/09/16/1568641811471.html 一、简单实例，了解基本。 1、安装Scrapy框架 这里如果直接pi</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/</guid>
       <description>title: 爬虫项目集合 date: &amp;lsquo;2019-09-07 21:33:18&amp;rsquo; updated: &amp;lsquo;2019-09-07 21:33:18&amp;rsquo; tags: [python学习, 爬虫] permalink: /articles/2019/09/17/1568728325035.html WechatSogou https://github.com/Chyroc/WechatSogou 微信公众号爬虫。基于搜狗微信搜索的微信公众号爬虫接口，可以扩展成基于搜狗搜索的</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E7%BB%88%E6%9E%81%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E7%BB%88%E6%9E%81%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E7%BB%88%E6%9E%81%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E7%BB%88%E6%9E%81%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88/</guid>
       <description>title: 终极分库分表方案 date: &amp;lsquo;2019-09-18 23:05:18&amp;rsquo; updated: &amp;lsquo;2019-09-18 23:24:27&amp;rsquo; tags: [java, 数据库, 分库分表, 高并发] permalink: /articles/2019/09/18/1568819118263.html 一、数据库瓶颈 1、IO瓶颈 2、CPU瓶颈 二、分库分表 三、分库分表工具 四、分库</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201909/%E8%AE%B0%E4%B8%80%E4%B8%AA%E4%B8%83%E7%89%9B%E4%BA%91%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <link>https://tools.jackssybin.cn/posts/201909/%E8%AE%B0%E4%B8%80%E4%B8%AA%E4%B8%83%E7%89%9B%E4%BA%91%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0%E7%9A%84%E9%97%AE%E9%A2%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201909/%E8%AE%B0%E4%B8%80%E4%B8%AA%E4%B8%83%E7%89%9B%E4%BA%91%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201909/%E8%AE%B0%E4%B8%80%E4%B8%AA%E4%B8%83%E7%89%9B%E4%BA%91%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
       <description>title: 记一个七牛云生成图片水印的问题 date: &amp;lsquo;2019-09-21 16:33:01&amp;rsquo; updated: &amp;lsquo;2019-09-21 16:33:01&amp;rsquo; tags: [故障, base64加密] permalink: /articles/2019/09/21/1569054780956.html 1.首先七牛云生成图片是没问题的 2.但诡异的是当图片上水印的文字</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%B8%80%E4%BA%9B%E7%82%B9/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%B8%80%E4%BA%9B%E7%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%B8%80%E4%BA%9B%E7%82%B9/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%B8%80%E4%BA%9B%E7%82%B9/</guid>
       <description>title: java基础知识需要注意的一些点 date: &amp;lsquo;2019-10-16 18:07:07&amp;rsquo; updated: &amp;lsquo;2019-10-21 18:04:27&amp;rsquo; tags: [java, 面试] permalink: /articles/2019/10/16/1571220427190.html 1.看看Integer 你注意到了没 @Test public void testInteger() { System.out.println((&amp;#34;----- testInteger method test ------&amp;#34;)); Integer a =128; Integer b =128; System.out.println(a.equals(b)); System.out.println(a==b); Integer c =127; Integer d</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/java%E8%A7%A3%E5%86%B3Hash%E7%A2%B0%E6%92%9E%E5%86%B2%E7%AA%81%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/java%E8%A7%A3%E5%86%B3Hash%E7%A2%B0%E6%92%9E%E5%86%B2%E7%AA%81%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/java%E8%A7%A3%E5%86%B3Hash%E7%A2%B0%E6%92%9E%E5%86%B2%E7%AA%81%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/java%E8%A7%A3%E5%86%B3Hash%E7%A2%B0%E6%92%9E%E5%86%B2%E7%AA%81%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</guid>
       <description>title: java解决Hash碰撞冲突方法总结 date: &amp;lsquo;2019-10-17 14:22:09&amp;rsquo; updated: &amp;lsquo;2019-10-17 14:22:09&amp;rsquo; tags: [java] permalink: /articles/2019/10/17/1571293329133.html 1.什么是hash碰撞 对象Hash的前提是实现equals()和hashCode(</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/js%E4%BA%AC%E4%B8%9C%E5%85%A8%E6%B0%91%E5%85%BB%E7%BA%A2%E5%8C%85%E4%B8%80%E6%AD%A5%E5%AE%8C%E6%88%90/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/js%E4%BA%AC%E4%B8%9C%E5%85%A8%E6%B0%91%E5%85%BB%E7%BA%A2%E5%8C%85%E4%B8%80%E6%AD%A5%E5%AE%8C%E6%88%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/js%E4%BA%AC%E4%B8%9C%E5%85%A8%E6%B0%91%E5%85%BB%E7%BA%A2%E5%8C%85%E4%B8%80%E6%AD%A5%E5%AE%8C%E6%88%90/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/js%E4%BA%AC%E4%B8%9C%E5%85%A8%E6%B0%91%E5%85%BB%E7%BA%A2%E5%8C%85%E4%B8%80%E6%AD%A5%E5%AE%8C%E6%88%90/</guid>
       <description>title: js京东全民养红包一步完成 date: &amp;lsquo;2019-10-29 14:15:36&amp;rsquo; updated: &amp;lsquo;2019-10-30 10:23:41&amp;rsquo; tags: [js] permalink: /articles/2019/10/29/1572329735795.html 京东喜迎双十一 这个活动和天猫的活动几乎可以说很像了，都是浏览商家店铺获取金币， 可是这样进度太</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/linux%E4%B8%8B%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/linux%E4%B8%8B%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/linux%E4%B8%8B%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/linux%E4%B8%8B%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
       <description>title: linux下一些常用命令 date: &amp;lsquo;2019-10-25 11:22:58&amp;rsquo; updated: &amp;lsquo;2019-10-25 17:05:48&amp;rsquo; tags: [linux] permalink: /articles/2019/10/25/1571973778513.html 1.根据端口查进程 lsof -i:port netstat -nap | grep port 2.根据进程号查端口: lsof -i|grep pid netstat -nap | grep pid 3.根据进程名查找pid</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/Nginx%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E9%85%8D%E7%BD%AE/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/Nginx%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/Nginx%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E9%85%8D%E7%BD%AE/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/Nginx%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E9%85%8D%E7%BD%AE/</guid>
       <description>title: Nginx 虚拟主机配置 date: &amp;lsquo;2019-10-21 18:02:56&amp;rsquo; updated: &amp;lsquo;2019-10-21 18:04:42&amp;rsquo; tags: [nginx] permalink: /articles/2019/10/21/1571652176584.html 1.虚拟主机概念 所谓虚拟主机，在 Web 服务里就是一个独立的网站站点，这个站点对应独立的域名（也可能是IP 或端</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/python%E5%88%A9%E7%94%A8pyinstaller%E5%B0%86%E9%A1%B9%E7%9B%AE%E5%8F%98%E6%88%90exe%E5%8F%AF%E4%BB%A5%E6%89%A7%E8%A1%8C/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/python%E5%88%A9%E7%94%A8pyinstaller%E5%B0%86%E9%A1%B9%E7%9B%AE%E5%8F%98%E6%88%90exe%E5%8F%AF%E4%BB%A5%E6%89%A7%E8%A1%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/python%E5%88%A9%E7%94%A8pyinstaller%E5%B0%86%E9%A1%B9%E7%9B%AE%E5%8F%98%E6%88%90exe%E5%8F%AF%E4%BB%A5%E6%89%A7%E8%A1%8C/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/python%E5%88%A9%E7%94%A8pyinstaller%E5%B0%86%E9%A1%B9%E7%9B%AE%E5%8F%98%E6%88%90exe%E5%8F%AF%E4%BB%A5%E6%89%A7%E8%A1%8C/</guid>
       <description>title: python利用pyinstaller将项目变成exe可以执行 date: &amp;lsquo;2019-10-09 16:19:39&amp;rsquo; updated: &amp;lsquo;2019-10-09 16:20:03&amp;rsquo; tags: [python实战] permalink: /articles/2019/10/09/1570609179378.html 1.安装pyinstaller pip3 install pyinstaller pyinstaller</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/selenium%E7%BB%8F%E5%B8%B8%E4%BD%BF%E7%94%A8api/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/selenium%E7%BB%8F%E5%B8%B8%E4%BD%BF%E7%94%A8api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/selenium%E7%BB%8F%E5%B8%B8%E4%BD%BF%E7%94%A8api/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/selenium%E7%BB%8F%E5%B8%B8%E4%BD%BF%E7%94%A8api/</guid>
       <description>title: selenium经常使用api date: &amp;lsquo;2019-10-28 17:17:13&amp;rsquo; updated: &amp;lsquo;2020-03-30 00:38:52&amp;rsquo; tags: [python学习] permalink: /articles/2019/10/28/1572254233777.html python-selenium官方文档可详细看用法 1.浏览器chrom</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201910/%E4%BB%80%E4%B9%88%E6%98%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/201910/%E4%BB%80%E4%B9%88%E6%98%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201910/%E4%BB%80%E4%B9%88%E6%98%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201910/%E4%BB%80%E4%B9%88%E6%98%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8/</guid>
       <description>title: 什么是区块链？ 区块链的入门介绍,场景应用 date: &amp;lsquo;2019-10-30 14:59:32&amp;rsquo; updated: &amp;lsquo;2019-10-30 22:17:42&amp;rsquo; tags: [区块链] permalink: /articles/2019/10/30/1572418772115.html 原作者：阮一峰 www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html 区块链（blockchain）是眼下的大热门，新闻媒体</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/centos7%E4%B8%8B%E5%AE%89%E8%A3%85redis/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/centos7%E4%B8%8B%E5%AE%89%E8%A3%85redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/centos7%E4%B8%8B%E5%AE%89%E8%A3%85redis/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/centos7%E4%B8%8B%E5%AE%89%E8%A3%85redis/</guid>
       <description>title: centos7下安装redis date: &amp;lsquo;2019-11-23 17:37:02&amp;rsquo; updated: &amp;lsquo;2019-11-27 15:38:30&amp;rsquo; tags: [redis, centos, linux服务配置安装] permalink: /articles/2019/11/23/1574501821804.html 一、安装redis 第一步：下载redis安装包 wget http://download.redis.io/releases/redis-4.0.6.tar.gz 第二步：解压</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/centos7%E5%AE%89%E8%A3%85chromedriver/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/centos7%E5%AE%89%E8%A3%85chromedriver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/centos7%E5%AE%89%E8%A3%85chromedriver/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/centos7%E5%AE%89%E8%A3%85chromedriver/</guid>
       <description>title: centos7 安装chromedriver date: &amp;lsquo;2019-11-30 13:21:29&amp;rsquo; updated: &amp;lsquo;2019-11-30 13:47:42&amp;rsquo; tags: [python实战, python学习, centos7, python3] permalink: /articles/2019/11/30/1575091289510.html 1.安装浏览器 指定yum 源 wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo 安装 curl https://intoli.com/install-google-chrome.sh | bash ldd</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/Centos7%E5%AE%89%E8%A3%85Python3.7/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/Centos7%E5%AE%89%E8%A3%85Python3.7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/Centos7%E5%AE%89%E8%A3%85Python3.7/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/Centos7%E5%AE%89%E8%A3%85Python3.7/</guid>
       <description>title: Centos7安装Python3.7 date: &amp;lsquo;2019-11-30 12:42:18&amp;rsquo; updated: &amp;lsquo;2019-11-30 12:42:18&amp;rsquo; tags: [python学习, centos7, python3] permalink: /articles/2019/11/30/1575088937927.html 1.安装编译相关工具 yum -y groupinstall &amp;#34;Development tools&amp;#34; yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel yum</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/idea%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A820200106%E6%9B%B4%E6%96%B0%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/idea%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A820200106%E6%9B%B4%E6%96%B0%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/idea%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A820200106%E6%9B%B4%E6%96%B0%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/idea%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A820200106%E6%9B%B4%E6%96%B0%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</guid>
       <description>title: idea永久激活使用（2020/01/06更新亲测可用，采用探针修改) date: &amp;lsquo;2019-11-20 22:22:01&amp;rsquo; updated: &amp;lsquo;2020-02-01 18:51:28&amp;rsquo; tags: [java, ieda破解] permalink: /articles/2019/11/20/1574259720908.html 1.下载补丁 链接：https://</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/</guid>
       <description>title: IO多路复用机制详解 date: &amp;lsquo;2019-11-05 17:06:51&amp;rsquo; updated: &amp;lsquo;2019-11-05 17:07:01&amp;rsquo; tags: [java, 高并发, 线程] permalink: /articles/2019/11/05/1572944811633.html 服务器端编程经常需要构造高性能的IO模型，常见的IO模型有四种： 一. 同步阻塞IO（B</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/javap%E5%88%86%E6%9E%90java%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/javap%E5%88%86%E6%9E%90java%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/javap%E5%88%86%E6%9E%90java%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/javap%E5%88%86%E6%9E%90java%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4/</guid>
       <description>title: javap分析java汇编指令 date: &amp;lsquo;2019-11-20 10:33:26&amp;rsquo; updated: &amp;lsquo;2019-11-20 10:38:36&amp;rsquo; tags: [javap, 汇编, jvm] permalink: /articles/2019/11/20/1574217206931.html 一、javap命令简述 javap是jdk自带的反解析工具。它的作用就是根据cla</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/java%E5%AF%B9%E8%B1%A1%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%8B%E5%80%BC%E4%B8%BAnull/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/java%E5%AF%B9%E8%B1%A1%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%8B%E5%80%BC%E4%B8%BAnull/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/java%E5%AF%B9%E8%B1%A1%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%8B%E5%80%BC%E4%B8%BAnull/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/java%E5%AF%B9%E8%B1%A1%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B5%8B%E5%80%BC%E4%B8%BAnull/</guid>
       <description>title: java对象不再使用时，为什么要赋值为 null date: &amp;lsquo;2019-11-19 14:59:17&amp;rsquo; updated: &amp;lsquo;2019-11-19 14:59:17&amp;rsquo; tags: [jvm, java, 垃圾回收算法] permalink: /articles/2019/11/19/1574146757419.html 1.示例代码 我们来看看一段非常简单的代码： jvm配置参数： -verbose:gc -XX:+PrintGC</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/java%E8%A7%A6%E5%8F%91gc%E7%9A%84%E6%9D%A1%E4%BB%B6%E5%92%8C%E6%97%B6%E6%9C%BA/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/java%E8%A7%A6%E5%8F%91gc%E7%9A%84%E6%9D%A1%E4%BB%B6%E5%92%8C%E6%97%B6%E6%9C%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/java%E8%A7%A6%E5%8F%91gc%E7%9A%84%E6%9D%A1%E4%BB%B6%E5%92%8C%E6%97%B6%E6%9C%BA/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/java%E8%A7%A6%E5%8F%91gc%E7%9A%84%E6%9D%A1%E4%BB%B6%E5%92%8C%E6%97%B6%E6%9C%BA/</guid>
       <description>title: java触发gc的条件和时机 date: &amp;lsquo;2019-11-22 10:18:33&amp;rsquo; updated: &amp;lsquo;2019-11-22 10:18:33&amp;rsquo; tags: [jvm, java, 垃圾回收算法] permalink: /articles/2019/11/22/1574389113537.html 1.什么时候触发GC (1)程序调用System.gc时可以触发，也不是立即</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/mybatismysql%E7%9A%84%E6%97%B6%E5%8C%BA%E9%97%AE%E9%A2%98/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/mybatismysql%E7%9A%84%E6%97%B6%E5%8C%BA%E9%97%AE%E9%A2%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/mybatismysql%E7%9A%84%E6%97%B6%E5%8C%BA%E9%97%AE%E9%A2%98/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/mybatismysql%E7%9A%84%E6%97%B6%E5%8C%BA%E9%97%AE%E9%A2%98/</guid>
       <description>title: mybatis,mysql的时区问题 date: &amp;lsquo;2019-11-07 17:48:47&amp;rsquo; updated: &amp;lsquo;2019-11-07 17:49:21&amp;rsquo; tags: [java, json时间转换] permalink: /articles/2019/11/07/1573120127531.html 1.公司运营装mysql的时候的时区不是固定的，随机的，所以我们</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/mysql%E5%85%81%E8%AE%B8%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/mysql%E5%85%81%E8%AE%B8%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/mysql%E5%85%81%E8%AE%B8%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/mysql%E5%85%81%E8%AE%B8%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/</guid>
       <description>title: mysql允许远程连接 date: &amp;lsquo;2019-11-13 23:07:22&amp;rsquo; updated: &amp;lsquo;2019-11-13 23:07:22&amp;rsquo; tags: [mysql] permalink: /articles/2019/11/13/1573657642163.html 1.本地登陆 赋权 GRANT ALL PRIVILEGES ON *.* TO &amp;#39;root&amp;#39;@&amp;#39;%&amp;#39; IDENTIFIED BY &amp;#39;密码&amp;#39; WITH GRANT OPTION; FLUSH PRIVILEGES; 2. 修改本地绑定端口 /etc/mysql/**mysql.cnf 查找bi</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/pycharm%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A8%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/pycharm%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A8%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/pycharm%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A8%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/pycharm%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E4%BD%BF%E7%94%A8%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8%E9%87%87%E7%94%A8%E6%8E%A2%E9%92%88%E4%BF%AE%E6%94%B9/</guid>
       <description>title: pycharm永久激活使用（亲测可用，采用探针修改） date: &amp;lsquo;2019-11-07 12:02:21&amp;rsquo; updated: &amp;lsquo;2021-03-18 16:02:15&amp;rsquo; tags: [python学习] permalink: /articles/2019/11/07/1573099341300.html 一、 下载 Pycharm 2019版本： https://down</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/python3%E7%BA%BF%E7%A8%8B%E6%B1%A0%E8%BF%9B%E7%A8%8B%E6%B1%A0%E5%BA%94%E7%94%A8ThreadPoolExecutor/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/python3%E7%BA%BF%E7%A8%8B%E6%B1%A0%E8%BF%9B%E7%A8%8B%E6%B1%A0%E5%BA%94%E7%94%A8ThreadPoolExecutor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/python3%E7%BA%BF%E7%A8%8B%E6%B1%A0%E8%BF%9B%E7%A8%8B%E6%B1%A0%E5%BA%94%E7%94%A8ThreadPoolExecutor/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/python3%E7%BA%BF%E7%A8%8B%E6%B1%A0%E8%BF%9B%E7%A8%8B%E6%B1%A0%E5%BA%94%E7%94%A8ThreadPoolExecutor/</guid>
       <description>title: python3线程池/进程池应用ThreadPoolExecutor date: &amp;lsquo;2019-11-19 11:32:01&amp;rsquo; updated: &amp;lsquo;2019-11-19 11:32:01&amp;rsquo; tags: [线程, python学习, python实战, 高并发] permalink: /articles/2019/11/19/1574134321234.html</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/Ubuntu16.04%E4%B8%ADPHP7.2%E5%AE%89%E8%A3%85pdomysql%E6%89%A9%E5%B1%95/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/Ubuntu16.04%E4%B8%ADPHP7.2%E5%AE%89%E8%A3%85pdomysql%E6%89%A9%E5%B1%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/Ubuntu16.04%E4%B8%ADPHP7.2%E5%AE%89%E8%A3%85pdomysql%E6%89%A9%E5%B1%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/Ubuntu16.04%E4%B8%ADPHP7.2%E5%AE%89%E8%A3%85pdomysql%E6%89%A9%E5%B1%95/</guid>
       <description>title: Ubuntu16.04中PHP7.2 安装pdo_mysql扩展 date: &amp;lsquo;2019-11-14 18:56:04&amp;rsquo; updated: &amp;lsquo;2019-11-14 19:41:44&amp;rsquo; tags: [php] permalink: /articles/2019/11/14/1573728964758.html 1.查看php版本 php -v 当前7.2版本 2.查看是否安装my</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/ubutun%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/ubutun%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/ubutun%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/ubutun%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
       <description>title: ubutun安装chrome浏览器 date: &amp;lsquo;2019-11-04 20:26:08&amp;rsquo; updated: &amp;lsquo;2019-11-04 20:27:49&amp;rsquo; tags: [待分类, python学习] permalink: /articles/2019/11/04/1572870368019.html 一、安装Chrome浏览器 1、安装依赖 sudo apt-get install libxss1 libappindicator1 libindicator7 2、下载</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/%E6%9F%A5%E7%9C%8BLinux%E5%8D%A0%E7%94%A8%E5%86%85%E5%AD%98CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E8%BF%9B%E7%A8%8B/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/%E6%9F%A5%E7%9C%8BLinux%E5%8D%A0%E7%94%A8%E5%86%85%E5%AD%98CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E8%BF%9B%E7%A8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/%E6%9F%A5%E7%9C%8BLinux%E5%8D%A0%E7%94%A8%E5%86%85%E5%AD%98CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E8%BF%9B%E7%A8%8B/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/%E6%9F%A5%E7%9C%8BLinux%E5%8D%A0%E7%94%A8%E5%86%85%E5%AD%98CPU%E6%9C%80%E5%A4%9A%E7%9A%84%E8%BF%9B%E7%A8%8B/</guid>
       <description>title: 查看Linux占用内存/CPU最多的进程 date: &amp;lsquo;2019-11-20 22:43:32&amp;rsquo; updated: &amp;lsquo;2020-01-09 22:58:43&amp;rsquo; tags: [调优, linux] permalink: /articles/2019/11/20/1574261012104.html 1.可以使用以下命令查使用内存最多的10个进程 ps -aux | sort -k4nr | head -n 10 2.可</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91Ubuntu16.04%E5%AE%89%E8%A3%85Java8redis/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91Ubuntu16.04%E5%AE%89%E8%A3%85Java8redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91Ubuntu16.04%E5%AE%89%E8%A3%85Java8redis/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91Ubuntu16.04%E5%AE%89%E8%A3%85Java8redis/</guid>
       <description>title: 阿里云Ubuntu16.04安装Java8_redis date: &amp;lsquo;2019-11-11 16:23:51&amp;rsquo; updated: &amp;lsquo;2019-11-14 11:52:19&amp;rsquo; tags: [java] permalink: /articles/2019/11/11/1573460631525.html 一、java8安装 1 Java 8 下载地址 链接：https://pan.b</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91ubutunpython3.5.2%E5%8D%B8%E8%BD%BD%E6%9B%B4%E6%96%B0%E5%88%B03.6%E6%96%B9%E6%B3%95%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88/</link>
+      <link>https://tools.jackssybin.cn/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91ubutunpython3.5.2%E5%8D%B8%E8%BD%BD%E6%9B%B4%E6%96%B0%E5%88%B03.6%E6%96%B9%E6%B3%95%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91ubutunpython3.5.2%E5%8D%B8%E8%BD%BD%E6%9B%B4%E6%96%B0%E5%88%B03.6%E6%96%B9%E6%B3%95%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201911/%E9%98%BF%E9%87%8C%E4%BA%91ubutunpython3.5.2%E5%8D%B8%E8%BD%BD%E6%9B%B4%E6%96%B0%E5%88%B03.6%E6%96%B9%E6%B3%95%E4%BA%B2%E6%B5%8B%E6%9C%89%E6%95%88/</guid>
       <description>title: 阿里云ubutun python3.5.2卸载更新到3.6方法亲测有效 date: &amp;lsquo;2019-11-04 15:10:25&amp;rsquo; updated: &amp;lsquo;2019-11-04 15:10:25&amp;rsquo; tags: [python学习] permalink: /articles/2019/11/04/1572851425831.html 1.首先卸载一下python3.</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201912/centos7%E5%AE%89%E8%A3%85nginxjdkmavenyum%E6%96%B9%E5%BC%8F/</link>
+      <link>https://tools.jackssybin.cn/posts/201912/centos7%E5%AE%89%E8%A3%85nginxjdkmavenyum%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201912/centos7%E5%AE%89%E8%A3%85nginxjdkmavenyum%E6%96%B9%E5%BC%8F/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201912/centos7%E5%AE%89%E8%A3%85nginxjdkmavenyum%E6%96%B9%E5%BC%8F/</guid>
       <description>title: centos7安装nginx,jdk,maven(yum方式) date: &amp;lsquo;2019-12-16 17:52:56&amp;rsquo; updated: &amp;lsquo;2019-12-17 15:49:11&amp;rsquo; tags: [centos7, centos, nginx, yum] permalink: /articles/2019/12/16/1576489975924.html 1.添加Nginx 的yum源 rpm -Uvh http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm #查看源是否添加</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201912/centos7%E5%BC%80%E5%90%AFssh%E6%9C%8D%E5%8A%A1/</link>
+      <link>https://tools.jackssybin.cn/posts/201912/centos7%E5%BC%80%E5%90%AFssh%E6%9C%8D%E5%8A%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201912/centos7%E5%BC%80%E5%90%AFssh%E6%9C%8D%E5%8A%A1/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201912/centos7%E5%BC%80%E5%90%AFssh%E6%9C%8D%E5%8A%A1/</guid>
       <description>title: centos7开启ssh服务 date: &amp;lsquo;2019-12-12 22:57:08&amp;rsquo; updated: &amp;lsquo;2019-12-12 22:57:08&amp;rsquo; tags: [centos7, sshd, 远程连接] permalink: /articles/2019/12/12/1576162628044.html 开启ssh服务需要root权限，先用root账户登陆 先检查有没有安装ssh服务</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201912/Centos7%E6%97%B6%E9%97%B4%E5%92%8Cjava%E8%8E%B7%E5%8F%96%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4/</link>
+      <link>https://tools.jackssybin.cn/posts/201912/Centos7%E6%97%B6%E9%97%B4%E5%92%8Cjava%E8%8E%B7%E5%8F%96%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201912/Centos7%E6%97%B6%E9%97%B4%E5%92%8Cjava%E8%8E%B7%E5%8F%96%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201912/Centos7%E6%97%B6%E9%97%B4%E5%92%8Cjava%E8%8E%B7%E5%8F%96%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4/</guid>
       <description>title: Centos7时间和java获取时间不一致 date: &amp;lsquo;2019-12-24 23:18:44&amp;rsquo; updated: &amp;lsquo;2019-12-24 23:18:44&amp;rsquo; tags: [centos7, jvm, json时间转换, java] permalink: /articles/2019/12/24/1577200724607.html 问题描述 遇到一个问题，web显示的时间比服务器时间快1</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201912/Centos%E4%B8%8Bgitpull%E5%85%8D%E5%AF%86%E7%A0%81%E6%93%8D%E4%BD%9C/</link>
+      <link>https://tools.jackssybin.cn/posts/201912/Centos%E4%B8%8Bgitpull%E5%85%8D%E5%AF%86%E7%A0%81%E6%93%8D%E4%BD%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201912/Centos%E4%B8%8Bgitpull%E5%85%8D%E5%AF%86%E7%A0%81%E6%93%8D%E4%BD%9C/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201912/Centos%E4%B8%8Bgitpull%E5%85%8D%E5%AF%86%E7%A0%81%E6%93%8D%E4%BD%9C/</guid>
       <description>title: Centos下git pull免密码操作 date: &amp;lsquo;2019-12-20 01:23:16&amp;rsquo; updated: &amp;lsquo;2019-12-20 01:23:16&amp;rsquo; tags: [centos7, centos, git, 免密] permalink: /articles/2019/12/20/1576776196766.html 1.服务器使用的centos部署的Java项目，使用git pull拉下</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201912/python3%E4%B8%8Bchromedriverheadlessproxy%E5%9C%BA%E6%99%AF/</link>
+      <link>https://tools.jackssybin.cn/posts/201912/python3%E4%B8%8Bchromedriverheadlessproxy%E5%9C%BA%E6%99%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201912/python3%E4%B8%8Bchromedriverheadlessproxy%E5%9C%BA%E6%99%AF/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201912/python3%E4%B8%8Bchromedriverheadlessproxy%E5%9C%BA%E6%99%AF/</guid>
       <description>title: python3下chromedriver + headless + proxy+场景 date: &amp;lsquo;2019-12-14 23:54:51&amp;rsquo; updated: &amp;lsquo;2019-12-14 23:54:51&amp;rsquo; tags: [python3, python学习, python实战, chromedriver] permalink: /articles/2019/12/14/1576338890909.html 1.标准头 # 导入s</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/201912/Springboot2mybatisplus3.0%E8%BE%93%E5%87%BAsql%E6%97%A5%E5%BF%97%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/</link>
+      <link>https://tools.jackssybin.cn/posts/201912/Springboot2mybatisplus3.0%E8%BE%93%E5%87%BAsql%E6%97%A5%E5%BF%97%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/201912/Springboot2mybatisplus3.0%E8%BE%93%E5%87%BAsql%E6%97%A5%E5%BF%97%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/</guid>
+      <guid>https://tools.jackssybin.cn/posts/201912/Springboot2mybatisplus3.0%E8%BE%93%E5%87%BAsql%E6%97%A5%E5%BF%97%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/</guid>
       <description>title: Springboot2+mybatisplus3.0输出sql日志的两种方式 date: &amp;lsquo;2019-12-04 16:59:44&amp;rsquo; updated: &amp;lsquo;2019-12-04 16:59:44&amp;rsquo; tags: [springboot, mybatis-plus, sql日志] permalink: /articles/2019/12/04/1575449984572.html 1.springboot版本</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202001/centos7%E6%9B%B4%E6%96%B0yum%E9%98%BF%E9%87%8C%E6%BA%90/</link>
+      <link>https://tools.jackssybin.cn/posts/202001/centos7%E6%9B%B4%E6%96%B0yum%E9%98%BF%E9%87%8C%E6%BA%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202001/centos7%E6%9B%B4%E6%96%B0yum%E9%98%BF%E9%87%8C%E6%BA%90/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202001/centos7%E6%9B%B4%E6%96%B0yum%E9%98%BF%E9%87%8C%E6%BA%90/</guid>
       <description>title: centos7更新yum阿里源 date: &amp;lsquo;2020-01-03 15:05:32&amp;rsquo; updated: &amp;lsquo;2020-01-03 15:05:32&amp;rsquo; tags: [centos7, yum, 阿里云] permalink: /articles/2020/01/03/1578035132098.html 1. 备份原来的yum源 $sudo cp /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.bak 2.设置aliyun的yum源 $sudo wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo 3.添加E</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202001/mysql%E7%A9%BA%E9%97%B4%E5%9D%90%E6%A0%87/</link>
+      <link>https://tools.jackssybin.cn/posts/202001/mysql%E7%A9%BA%E9%97%B4%E5%9D%90%E6%A0%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202001/mysql%E7%A9%BA%E9%97%B4%E5%9D%90%E6%A0%87/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202001/mysql%E7%A9%BA%E9%97%B4%E5%9D%90%E6%A0%87/</guid>
       <description>title: mysql空间坐标 date: &amp;lsquo;2020-01-03 11:18:41&amp;rsquo; updated: &amp;lsquo;2020-01-03 12:31:59&amp;rsquo; tags: [mysql, 空间坐标, 范围查询, gis] permalink: /articles/2020/01/03/1578021520851.html 1.常用使用场景 矩形查询： 适合智能手机、网页端高效展示屏幕范围内数据。通过AP</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202001/Python3%E7%BB%98%E5%9B%BETurtle%E5%BA%93%E8%AF%A6%E8%A7%A3/</link>
+      <link>https://tools.jackssybin.cn/posts/202001/Python3%E7%BB%98%E5%9B%BETurtle%E5%BA%93%E8%AF%A6%E8%A7%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202001/Python3%E7%BB%98%E5%9B%BETurtle%E5%BA%93%E8%AF%A6%E8%A7%A3/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202001/Python3%E7%BB%98%E5%9B%BETurtle%E5%BA%93%E8%AF%A6%E8%A7%A3/</guid>
       <description>title: Python3绘图Turtle库详解 date: &amp;lsquo;2020-01-15 11:00:24&amp;rsquo; updated: &amp;lsquo;2020-01-15 11:00:24&amp;rsquo; tags: [python3, python学习, turtle, 画图] permalink: /articles/2020/01/15/1579057224237.html Turtle库是Python语言中一个很流行的绘制图像的</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202001/wireshark%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+      <link>https://tools.jackssybin.cn/posts/202001/wireshark%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202001/wireshark%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202001/wireshark%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
       <description>title: wireshark安装和基本语法 date: &amp;lsquo;2020-01-04 15:45:19&amp;rsquo; updated: &amp;lsquo;2020-01-04 15:45:19&amp;rsquo; tags: [wireshark, 网络嗅探] permalink: /articles/2020/01/04/1578123919824.html 1.过滤IP，如来源IP或者目标IP等于某个IP 例子: ip.src eq 192.168.1.108 or ip.dst eq 192.168.1.108 或者 ip.addr eq</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202001/%E5%88%A9%E7%94%A8Grafana%E5%B1%95%E7%A4%BAzabbix%E6%95%B0%E6%8D%AE/</link>
+      <link>https://tools.jackssybin.cn/posts/202001/%E5%88%A9%E7%94%A8Grafana%E5%B1%95%E7%A4%BAzabbix%E6%95%B0%E6%8D%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202001/%E5%88%A9%E7%94%A8Grafana%E5%B1%95%E7%A4%BAzabbix%E6%95%B0%E6%8D%AE/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202001/%E5%88%A9%E7%94%A8Grafana%E5%B1%95%E7%A4%BAzabbix%E6%95%B0%E6%8D%AE/</guid>
       <description>title: 利用Grafana展示zabbix数据 date: &amp;lsquo;2020-01-10 14:18:55&amp;rsquo; updated: &amp;lsquo;2020-01-10 14:18:55&amp;rsquo; tags: [grafana, zabbix, centos7] permalink: /articles/2020/01/10/1578637135722.html 一、系统搭建（以Centos7为例） 因为我们的主要目的是展示zabbix的数</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202002/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%AD%E9%94%81%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/202002/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%AD%E9%94%81%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202002/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%AD%E9%94%81%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202002/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%AD%E9%94%81%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
       <description>title: Java多线程中锁的理解与使用 date: &amp;lsquo;2020-02-19 01:22:31&amp;rsquo; updated: &amp;lsquo;2020-02-19 01:22:31&amp;rsquo; tags: [jvm锁, java锁, 锁, 独占锁] permalink: /articles/2020/02/19/1582046551397.html 1.简介 锁作为并发共享数据，保证一致性的工具，在JAV</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202002/mysql%E4%B8%ADinformationschema%E7%94%A8%E9%80%94/</link>
+      <link>https://tools.jackssybin.cn/posts/202002/mysql%E4%B8%ADinformationschema%E7%94%A8%E9%80%94/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202002/mysql%E4%B8%ADinformationschema%E7%94%A8%E9%80%94/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202002/mysql%E4%B8%ADinformationschema%E7%94%A8%E9%80%94/</guid>
       <description>title: mysql中information_schema用途 date: &amp;lsquo;2020-02-20 23:18:28&amp;rsquo; updated: &amp;lsquo;2020-02-20 23:18:28&amp;rsquo; tags: [mysql] permalink: /articles/2020/02/20/1582211908887.html 一、information_schema简介 在MySQL中，把 information_schema 看</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202002/springboot%E5%8D%87%E7%BA%A7swaggerui%E8%BF%9B%E5%8C%96%E7%89%88knife4j%E7%AE%80%E5%8D%95%E9%9B%86%E6%88%90/</link>
+      <link>https://tools.jackssybin.cn/posts/202002/springboot%E5%8D%87%E7%BA%A7swaggerui%E8%BF%9B%E5%8C%96%E7%89%88knife4j%E7%AE%80%E5%8D%95%E9%9B%86%E6%88%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202002/springboot%E5%8D%87%E7%BA%A7swaggerui%E8%BF%9B%E5%8C%96%E7%89%88knife4j%E7%AE%80%E5%8D%95%E9%9B%86%E6%88%90/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202002/springboot%E5%8D%87%E7%BA%A7swaggerui%E8%BF%9B%E5%8C%96%E7%89%88knife4j%E7%AE%80%E5%8D%95%E9%9B%86%E6%88%90/</guid>
       <description>title: springboot升级swagger-ui进化版knife4j简单集成 date: &amp;lsquo;2020-02-27 09:53:09&amp;rsquo; updated: &amp;lsquo;2020-02-27 09:53:09&amp;rsquo; tags: [swagger, knife4j, java, springboot] permalink: /articles/2020/02/27/1582768389143.html 1.官方文档 knife4j接入文档 2.概</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202002/%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3api%E5%88%86%E4%BA%AB%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86/</link>
+      <link>https://tools.jackssybin.cn/posts/202002/%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3api%E5%88%86%E4%BA%AB%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202002/%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3api%E5%88%86%E4%BA%AB%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202002/%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3api%E5%88%86%E4%BA%AB%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86/</guid>
       <description>title: 免费接口api分享（终于找到了） date: &amp;lsquo;2020-02-18 22:56:16&amp;rsquo; updated: &amp;lsquo;2020-02-18 22:56:16&amp;rsquo; tags: [免费api, 聚合数据] permalink: /articles/2020/02/18/1582037776392.html 各类无次数限制的免费API接口整理，主要是聚合数据上和API St</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202003/JVM%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C/</link>
+      <link>https://tools.jackssybin.cn/posts/202003/JVM%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202003/JVM%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202003/JVM%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C/</guid>
       <description>title: JVM指令手册 date: &amp;lsquo;2020-03-05 22:47:33&amp;rsquo; updated: &amp;lsquo;2020-03-05 22:47:33&amp;rsquo; tags: [JVM指令, javap] permalink: /articles/2020/03/05/1583419653736.html 栈和局部变量操作 将常量压入栈的指令 aconst_null 将null对象引用压入栈 iconst_m1 将int类型常量-1压入栈 iconst_0</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202004/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%9FCms%E5%92%8CG1%E6%A2%B3%E7%90%86/</link>
+      <link>https://tools.jackssybin.cn/posts/202004/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%9FCms%E5%92%8CG1%E6%A2%B3%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202004/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%9FCms%E5%92%8CG1%E6%A2%B3%E7%90%86/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202004/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%9FCms%E5%92%8CG1%E6%A2%B3%E7%90%86/</guid>
       <description>title: Java垃圾回收期Cms和G1梳理 date: &amp;lsquo;2020-04-03 23:53:33&amp;rsquo; updated: &amp;lsquo;2020-04-03 23:53:33&amp;rsquo; tags: [java, cms, G1, 垃圾回收器] permalink: /articles/2020/04/03/1585929213226.html 目录 1 CMS收集器 安全点(Safepoint) 安全区域 2 G1收集器 卡</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202004/jvm%E8%B0%83%E4%BC%98%E5%A0%86%E6%BA%A2%E5%87%BA%E5%92%8C%E8%B0%83%E4%BC%98%E5%8F%82%E6%95%B0/</link>
+      <link>https://tools.jackssybin.cn/posts/202004/jvm%E8%B0%83%E4%BC%98%E5%A0%86%E6%BA%A2%E5%87%BA%E5%92%8C%E8%B0%83%E4%BC%98%E5%8F%82%E6%95%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202004/jvm%E8%B0%83%E4%BC%98%E5%A0%86%E6%BA%A2%E5%87%BA%E5%92%8C%E8%B0%83%E4%BC%98%E5%8F%82%E6%95%B0/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202004/jvm%E8%B0%83%E4%BC%98%E5%A0%86%E6%BA%A2%E5%87%BA%E5%92%8C%E8%B0%83%E4%BC%98%E5%8F%82%E6%95%B0/</guid>
       <description>title: jvm调优(堆溢出和调优参数) date: &amp;lsquo;2020-04-13 18:13:34&amp;rsquo; updated: &amp;lsquo;2020-04-22 14:18:24&amp;rsquo; tags: [jvm, 调优, 内存溢出, 调优参数] permalink: /articles/2020/04/13/1586772814684.html 内存溢出和内存泄漏的区别： 内存溢出 out of memory，是指程序在</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202004/Linux%E4%B8%8B%E5%BF%AB%E9%80%9F%E5%88%86%E6%9E%90DUMP%E6%96%87%E4%BB%B6/</link>
+      <link>https://tools.jackssybin.cn/posts/202004/Linux%E4%B8%8B%E5%BF%AB%E9%80%9F%E5%88%86%E6%9E%90DUMP%E6%96%87%E4%BB%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202004/Linux%E4%B8%8B%E5%BF%AB%E9%80%9F%E5%88%86%E6%9E%90DUMP%E6%96%87%E4%BB%B6/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202004/Linux%E4%B8%8B%E5%BF%AB%E9%80%9F%E5%88%86%E6%9E%90DUMP%E6%96%87%E4%BB%B6/</guid>
       <description>title: Linux下快速分析DUMP文件 date: &amp;lsquo;2020-04-20 21:37:33&amp;rsquo; updated: &amp;lsquo;2020-04-20 21:37:33&amp;rsquo; tags: [jvm, 内存溢出, linux, mat] permalink: /articles/2020/04/20/1587389853090.html dump文件传输到本地进行分析， 常常需要大量的等待时间。 使用IBM的ec</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202004/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81Rediszkdb%E9%94%81/</link>
+      <link>https://tools.jackssybin.cn/posts/202004/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81Rediszkdb%E9%94%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202004/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81Rediszkdb%E9%94%81/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202004/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81Rediszkdb%E9%94%81/</guid>
       <description>title: 分布式锁(Redis,zk,db锁) date: &amp;lsquo;2020-04-11 20:33:24&amp;rsquo; updated: &amp;lsquo;2020-04-11 20:41:51&amp;rsquo; tags: [redis, 分布式锁, zk分布式锁] permalink: /articles/2020/04/11/1586608404790.html 关于分布式锁，一般有三种选择， 1、redis （setnx,</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202004/%E8%9A%82%E8%9A%81%E4%B8%AD%E9%97%B4%E4%BB%B6SOFA/</link>
+      <link>https://tools.jackssybin.cn/posts/202004/%E8%9A%82%E8%9A%81%E4%B8%AD%E9%97%B4%E4%BB%B6SOFA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202004/%E8%9A%82%E8%9A%81%E4%B8%AD%E9%97%B4%E4%BB%B6SOFA/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202004/%E8%9A%82%E8%9A%81%E4%B8%AD%E9%97%B4%E4%BB%B6SOFA/</guid>
       <description>title: 蚂蚁中间件SOFA date: &amp;lsquo;2020-04-11 17:11:19&amp;rsquo; updated: &amp;lsquo;2020-04-16 14:04:14&amp;rsquo; tags: [sofa, 蚂蚁中间件, servicemesh, sofaboot] permalink: /articles/2020/04/11/1586596278773.html 1.Sofa是什么 SOFA 源自于 Service Oriented Fabric Architecture，即面向服务的架构。 随着 SOFA 的</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202005/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8kdevtmpfsi%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
+      <link>https://tools.jackssybin.cn/posts/202005/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8kdevtmpfsi%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202005/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8kdevtmpfsi%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202005/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8kdevtmpfsi%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
       <description>title: Linux服务器kdevtmpfsi挖矿病毒解决方法 date: &amp;lsquo;2020-05-11 11:28:15&amp;rsquo; updated: &amp;lsquo;2020-05-20 23:18:00&amp;rsquo; tags: [linux, 矿机病毒, cpu100, kdevtmpfsi] permalink: /articles/2020/05/11/1589167695782.html 问题描述 Linux服务器（包括但不限于CentOS）</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202005/Linux%E6%9F%A5%E7%9C%8B%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E8%AE%B0%E5%BD%95/</link>
+      <link>https://tools.jackssybin.cn/posts/202005/Linux%E6%9F%A5%E7%9C%8B%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202005/Linux%E6%9F%A5%E7%9C%8B%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E8%AE%B0%E5%BD%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202005/Linux%E6%9F%A5%E7%9C%8B%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E8%AE%B0%E5%BD%95/</guid>
       <description>title: Linux - 查看用户登录记录 date: &amp;lsquo;2020-05-13 14:05:20&amp;rsquo; updated: &amp;lsquo;2020-05-13 14:05:20&amp;rsquo; tags: [linux, 用户操作记录, lastlog] permalink: /articles/2020/05/13/1589349920439.html 1、查看当前登录用户信息 who命令： who缺省输出包括用户名、终端类型、登陆日期以</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202005/MysqlLimit%E4%BC%98%E5%8C%96%E5%92%8C%E6%95%B0%E6%8D%AE%E9%87%8D%E5%A4%8D/</link>
+      <link>https://tools.jackssybin.cn/posts/202005/MysqlLimit%E4%BC%98%E5%8C%96%E5%92%8C%E6%95%B0%E6%8D%AE%E9%87%8D%E5%A4%8D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202005/MysqlLimit%E4%BC%98%E5%8C%96%E5%92%8C%E6%95%B0%E6%8D%AE%E9%87%8D%E5%A4%8D/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202005/MysqlLimit%E4%BC%98%E5%8C%96%E5%92%8C%E6%95%B0%E6%8D%AE%E9%87%8D%E5%A4%8D/</guid>
       <description>title: Mysql-Limit 优化和数据重复 date: &amp;lsquo;2020-05-28 16:10:08&amp;rsquo; updated: &amp;lsquo;2020-05-28 16:10:08&amp;rsquo; tags: [mysql, orderby, 排序, limit] permalink: /articles/2020/05/28/1590653407979.html limit 查询导出优化 耗时本质 mysql大数据量使用limit分页，随着页码的增大，查询效率越低下。</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202005/MySQL%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96ORDERBY%E6%8E%92%E5%BA%8F/</link>
+      <link>https://tools.jackssybin.cn/posts/202005/MySQL%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96ORDERBY%E6%8E%92%E5%BA%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202005/MySQL%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96ORDERBY%E6%8E%92%E5%BA%8F/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202005/MySQL%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96ORDERBY%E6%8E%92%E5%BA%8F/</guid>
       <description>title: MySQL如何利用索引优化ORDER BY排序 date: &amp;lsquo;2020-05-28 11:53:00&amp;rsquo; updated: &amp;lsquo;2020-05-28 11:53:00&amp;rsquo; tags: [mysql, orderby, 索引] permalink: /articles/2020/05/28/1590637980592.html MySQL索引通常是被用于提高WHERE条件的数据行匹配或者执行联</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202005/Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%87%BB%E7%A9%BF%E9%9B%AA%E5%B4%A9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+      <link>https://tools.jackssybin.cn/posts/202005/Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%87%BB%E7%A9%BF%E9%9B%AA%E5%B4%A9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202005/Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%87%BB%E7%A9%BF%E9%9B%AA%E5%B4%A9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202005/Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%87%BB%E7%A9%BF%E9%9B%AA%E5%B4%A9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
       <description>title: Redis缓存穿透/击穿/雪崩解决方案 date: &amp;lsquo;2020-05-28 16:56:09&amp;rsquo; updated: &amp;lsquo;2020-05-28 16:56:09&amp;rsquo; tags: [Redis缓存穿透, 缓存穿透, 缓存击穿, 缓存雪崩] permalink: /articles/2020/05/28/1590656168798.html Redis缓存穿透/击穿/雪崩</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202006/api%E7%BD%91%E5%85%B3%E4%BB%8B%E7%BB%8D/</link>
+      <link>https://tools.jackssybin.cn/posts/202006/api%E7%BD%91%E5%85%B3%E4%BB%8B%E7%BB%8D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202006/api%E7%BD%91%E5%85%B3%E4%BB%8B%E7%BB%8D/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202006/api%E7%BD%91%E5%85%B3%E4%BB%8B%E7%BB%8D/</guid>
       <description>title: api网关介绍 date: &amp;lsquo;2020-06-14 13:22:54&amp;rsquo; updated: &amp;lsquo;2020-06-20 10:46:06&amp;rsquo; tags: [gateway, zuul, 网关] permalink: /articles/2020/06/14/1592112174081.html 1.什么是网关 API网关是一个系统的唯一入口。 是众多分布式服务唯一的一个出口。 它做到了物理隔离,</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202006/Python3%E4%B8%8Brequest%E5%A4%84%E7%90%86cookie%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
+      <link>https://tools.jackssybin.cn/posts/202006/Python3%E4%B8%8Brequest%E5%A4%84%E7%90%86cookie%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202006/Python3%E4%B8%8Brequest%E5%A4%84%E7%90%86cookie%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E6%B3%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202006/Python3%E4%B8%8Brequest%E5%A4%84%E7%90%86cookie%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E6%B3%95/</guid>
       <description>title: Python3下request处理cookie的两种方法 date: &amp;lsquo;2020-06-16 22:29:23&amp;rsquo; updated: &amp;lsquo;2020-06-16 22:29:23&amp;rsquo; tags: [python3, requests, session, cookie] permalink: /articles/2020/06/16/1592317763420.html 一、获取cookie 手动获取：手工登录获取cookie，</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202006/%E5%85%B3%E4%BA%8EMono%E5%92%8CFlux%E7%9A%84%E7%90%86%E8%A7%A3/</link>
+      <link>https://tools.jackssybin.cn/posts/202006/%E5%85%B3%E4%BA%8EMono%E5%92%8CFlux%E7%9A%84%E7%90%86%E8%A7%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202006/%E5%85%B3%E4%BA%8EMono%E5%92%8CFlux%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202006/%E5%85%B3%E4%BA%8EMono%E5%92%8CFlux%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
       <description>title: 关于Mono和Flux的理解 date: &amp;lsquo;2020-06-18 17:49:51&amp;rsquo; updated: &amp;lsquo;2020-10-18 20:29:41&amp;rsquo; tags: [Mono, Flux, Reactor, WebFlux] permalink: /articles/2020/06/18/1592473791199.html 关于java的响应式编程框架&amp;mdash;-SpringReactor 关于React</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202008/HAProxy%E5%B8%B8%E8%A7%81%E7%9A%84%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F/</link>
+      <link>https://tools.jackssybin.cn/posts/202008/HAProxy%E5%B8%B8%E8%A7%81%E7%9A%84%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202008/HAProxy%E5%B8%B8%E8%A7%81%E7%9A%84%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202008/HAProxy%E5%B8%B8%E8%A7%81%E7%9A%84%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F/</guid>
       <description>title: HAProxy常见的安装方式 date: &amp;lsquo;2020-08-28 20:01:24&amp;rsquo; updated: &amp;lsquo;2020-08-28 20:01:24&amp;rsquo; tags: [haproxy, nginx, 负载, 动态代理] permalink: /articles/2020/08/28/1598616084150.html 1&amp;gt;.什么是负载均衡 负载均衡(Load Balance，简称LB)是</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202009/Ubuntu%E6%90%AD%E5%BB%BAZookeeper%E6%9C%8D%E5%8A%A1/</link>
+      <link>https://tools.jackssybin.cn/posts/202009/Ubuntu%E6%90%AD%E5%BB%BAZookeeper%E6%9C%8D%E5%8A%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202009/Ubuntu%E6%90%AD%E5%BB%BAZookeeper%E6%9C%8D%E5%8A%A1/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202009/Ubuntu%E6%90%AD%E5%BB%BAZookeeper%E6%9C%8D%E5%8A%A1/</guid>
       <description>title: Ubuntu 搭建Zookeeper服务 date: &amp;lsquo;2020-09-10 13:58:21&amp;rsquo; updated: &amp;lsquo;2020-09-10 14:07:47&amp;rsquo; tags: [zookeeper, zk, centos, linux] permalink: /articles/2020/09/10/1599717501006.html 1、下载安装包 官方下载地址http://apache.fayea.com/zooke</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202010/Drools%E8%AF%AD%E6%B3%95/</link>
+      <link>https://tools.jackssybin.cn/posts/202010/Drools%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202010/Drools%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202010/Drools%E8%AF%AD%E6%B3%95/</guid>
       <description>title: Drools语法 date: &amp;lsquo;2020-10-29 18:51:51&amp;rsquo; updated: &amp;lsquo;2020-10-29 18:51:51&amp;rsquo; tags: [Drools, 规则引擎] permalink: /articles/2020/10/29/1603968711195.html Drools语法-Language 关键词 Hard keywords(Cannot use any): true,false,null Soft keywords(avoid use) lock-on-active date-effective date-expires no-loop auto-focus activation-group agenda-group ruleflow-group entry-point duration package import dialect salience enabled attributes rule extend</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202010/%E7%BA%BF%E7%A8%8B%E6%B5%81%E8%BD%AC%E7%8A%B6%E6%80%81%E5%9B%BE/</link>
+      <link>https://tools.jackssybin.cn/posts/202010/%E7%BA%BF%E7%A8%8B%E6%B5%81%E8%BD%AC%E7%8A%B6%E6%80%81%E5%9B%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202010/%E7%BA%BF%E7%A8%8B%E6%B5%81%E8%BD%AC%E7%8A%B6%E6%80%81%E5%9B%BE/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202010/%E7%BA%BF%E7%A8%8B%E6%B5%81%E8%BD%AC%E7%8A%B6%E6%80%81%E5%9B%BE/</guid>
       <description>title: 线程流转状态图 date: &amp;lsquo;2020-10-22 16:25:47&amp;rsquo; updated: &amp;lsquo;2020-10-22 16:25:47&amp;rsquo; tags: [Thread, 线程状态转换] permalink: /articles/2020/10/22/1603355147679.html 新建状态(New): 线程对象被创建后，就进入了新建状态。例如，Thread thread = new Threa</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202011/Java%E5%8F%8D%E5%B0%84%E7%94%9F%E6%88%90%E5%AF%B9%E8%B1%A1/</link>
+      <link>https://tools.jackssybin.cn/posts/202011/Java%E5%8F%8D%E5%B0%84%E7%94%9F%E6%88%90%E5%AF%B9%E8%B1%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202011/Java%E5%8F%8D%E5%B0%84%E7%94%9F%E6%88%90%E5%AF%B9%E8%B1%A1/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202011/Java%E5%8F%8D%E5%B0%84%E7%94%9F%E6%88%90%E5%AF%B9%E8%B1%A1/</guid>
       <description>title: Java反射生成对象 date: &amp;lsquo;2020-11-10 19:08:04&amp;rsquo; updated: &amp;lsquo;2020-11-19 09:47:23&amp;rsquo; tags: [java, 反射, 对象创建, 声明方法使用] permalink: /articles/2020/11/10/1605006483827.html 想要了解反射生成class和创建java对象，首先我们要了解什么是反</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202011/Java%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8A%E6%95%88%E7%8E%87%E5%AF%B9%E6%AF%94/</link>
+      <link>https://tools.jackssybin.cn/posts/202011/Java%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8A%E6%95%88%E7%8E%87%E5%AF%B9%E6%AF%94/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202011/Java%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8A%E6%95%88%E7%8E%87%E5%AF%B9%E6%AF%94/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202011/Java%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E4%BB%A5%E5%8F%8A%E6%95%88%E7%8E%87%E5%AF%B9%E6%AF%94/</guid>
       <description>title: Java 逐行读取文本文件的几种方式以及效率对比 date: &amp;lsquo;2020-11-10 18:35:05&amp;rsquo; updated: &amp;lsquo;2020-11-10 18:36:01&amp;rsquo; tags: [java行模式读取文件, 读文件效率对比] permalink: /articles/2020/11/10/1605004504728.html 先放结果 1000000 行文本读取结果比对: BufferedReader 耗时:</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202011/%E7%BC%93%E5%AD%98%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98/</link>
+      <link>https://tools.jackssybin.cn/posts/202011/%E7%BC%93%E5%AD%98%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202011/%E7%BC%93%E5%AD%98%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202011/%E7%BC%93%E5%AD%98%E5%92%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98/</guid>
       <description>title: 缓存和数据库一致性问题 date: &amp;lsquo;2020-11-04 13:56:38&amp;rsquo; updated: &amp;lsquo;2020-11-04 13:56:50&amp;rsquo; tags: [分布式, 数据库更新, 缓存更新, 分布式缓存一致性] permalink: /articles/2020/11/04/1604469398210.html 问题： 你只要用缓存，就可能会涉及到缓存与数据库双</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202012/MySQL5.7root%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9/</link>
+      <link>https://tools.jackssybin.cn/posts/202012/MySQL5.7root%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202012/MySQL5.7root%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202012/MySQL5.7root%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9/</guid>
       <description>title: MySQL 5.7root用户密码修改 date: &amp;lsquo;2020-12-16 13:45:23&amp;rsquo; updated: &amp;lsquo;2020-12-16 13:45:23&amp;rsquo; tags: [mysql, 更新密码, root密码] permalink: /articles/2020/12/16/1608097523728.html 在MySQL 5.7 password字段已从mysql.user表中删除</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202012/SpringBoo2t%E8%8E%B7%E5%8F%96ApplicationContext%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F/</link>
+      <link>https://tools.jackssybin.cn/posts/202012/SpringBoo2t%E8%8E%B7%E5%8F%96ApplicationContext%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202012/SpringBoo2t%E8%8E%B7%E5%8F%96ApplicationContext%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202012/SpringBoo2t%E8%8E%B7%E5%8F%96ApplicationContext%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F/</guid>
       <description>title: SpringBoo2t获取ApplicationContext的3种方式 date: &amp;lsquo;2020-12-29 08:51:39&amp;rsquo; updated: &amp;lsquo;2020-12-29 08:51:39&amp;rsquo; tags: [springboot上下文, springboot获</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202012/springBoot2%E4%B8%ADwebflux%E9%9B%86%E6%88%90swagger2/</link>
+      <link>https://tools.jackssybin.cn/posts/202012/springBoot2%E4%B8%ADwebflux%E9%9B%86%E6%88%90swagger2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202012/springBoot2%E4%B8%ADwebflux%E9%9B%86%E6%88%90swagger2/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202012/springBoot2%E4%B8%ADwebflux%E9%9B%86%E6%88%90swagger2/</guid>
       <description>title: springBoot2中webflux集成swagger2 date: &amp;lsquo;2020-12-25 10:01:38&amp;rsquo; updated: &amp;lsquo;2020-12-25 10:01:38&amp;rsquo; tags: [springboot2, swagger2] permalink: /articles/2020/12/25/1608861698265.html 1.pom文件中引用如下 &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;io.springfox&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;springfox-boot-starter&amp;lt;/artifactId&amp;gt; &amp;lt;version&amp;gt;3.0.0&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; 2.添加swagger2</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202012/springBoot2%E5%8A%A8%E6%80%81%E6%95%B0%E6%8D%AE%E6%BA%90%E4%BB%A5%E5%8F%8AMybatis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90/</link>
+      <link>https://tools.jackssybin.cn/posts/202012/springBoot2%E5%8A%A8%E6%80%81%E6%95%B0%E6%8D%AE%E6%BA%90%E4%BB%A5%E5%8F%8AMybatis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202012/springBoot2%E5%8A%A8%E6%80%81%E6%95%B0%E6%8D%AE%E6%BA%90%E4%BB%A5%E5%8F%8AMybatis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202012/springBoot2%E5%8A%A8%E6%80%81%E6%95%B0%E6%8D%AE%E6%BA%90%E4%BB%A5%E5%8F%8AMybatis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90/</guid>
       <description>title: springBoot2动态数据源以及Mybatis多数据源 date: &amp;lsquo;2020-12-25 09:55:26&amp;rsquo; updated: &amp;lsquo;2020-12-25 09:55:26&amp;rsquo; tags: [mybaits-plus, 动态数据源, 切换数据源, springboot2] permalink: /articles/2020/12/25/1608861326670.html 一、前言 由于项目中读写分离，或者分</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202012/%E5%90%84%E7%A7%8D%E6%B3%95%E5%88%99%E5%AE%9A%E5%BE%8B%E5%BC%95%E8%AE%BA/</link>
+      <link>https://tools.jackssybin.cn/posts/202012/%E5%90%84%E7%A7%8D%E6%B3%95%E5%88%99%E5%AE%9A%E5%BE%8B%E5%BC%95%E8%AE%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202012/%E5%90%84%E7%A7%8D%E6%B3%95%E5%88%99%E5%AE%9A%E5%BE%8B%E5%BC%95%E8%AE%BA/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202012/%E5%90%84%E7%A7%8D%E6%B3%95%E5%88%99%E5%AE%9A%E5%BE%8B%E5%BC%95%E8%AE%BA/</guid>
       <description>title: 各种法则定律-引论 date: &amp;lsquo;2020-12-25 15:44:37&amp;rsquo; updated: &amp;lsquo;2020-12-25 15:44:37&amp;rsquo; tags: [康威定律, 摩尔定律, 墨菲定律] permalink: /articles/2020/12/25/1608882277320.html 参考： 一、墨菲定律：如果事情可能出错，它就会出错。 二、布鲁克定律：大部</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202103/java%E5%86%85%E7%9C%81%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
+      <link>https://tools.jackssybin.cn/posts/202103/java%E5%86%85%E7%9C%81%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202103/java%E5%86%85%E7%9C%81%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202103/java%E5%86%85%E7%9C%81%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
       <description>title: java内省机制与反射机制的区别 date: &amp;lsquo;2021-03-29 14:50:16&amp;rsquo; updated: &amp;lsquo;2021-03-29 14:50:16&amp;rsquo; tags: [java反射, java内省, reflect, Introspector] permalink: /articles/2021/03/29/1617000615780.html 概念上的区别 反射是在运行状态把Java类中的各种成分映</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202103/SpringIntegration%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C%E5%AE%8C%E6%95%B4%E7%89%88/</link>
+      <link>https://tools.jackssybin.cn/posts/202103/SpringIntegration%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C%E5%AE%8C%E6%95%B4%E7%89%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202103/SpringIntegration%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C%E5%AE%8C%E6%95%B4%E7%89%88/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202103/SpringIntegration%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C%E5%AE%8C%E6%95%B4%E7%89%88/</guid>
       <description>title: Spring Integration 中文手册（完整版） date: &amp;lsquo;2021-03-16 20:30:40&amp;rsquo; updated: &amp;lsquo;2021-03-16 20:34:04&amp;rsquo; tags: [rabbitmq, activemq, springBatch] permalink: /articles/2021/03/16/1615897840354.html 1. Spring Integration 中文手册 Spring Integration 对 Spring 编程模型进行了扩展，使得后者能够支持著名的“企业集成模式”。通过SI（</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%86%B7%E7%83%AD%E5%88%86%E7%A6%BB/</link>
+      <link>https://tools.jackssybin.cn/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%86%B7%E7%83%AD%E5%88%86%E7%A6%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%86%B7%E7%83%AD%E5%88%86%E7%A6%BB/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%86%B7%E7%83%AD%E5%88%86%E7%A6%BB/</guid>
       <description>title: 表数据量大读写缓慢如何优化【冷热分离】 date: &amp;lsquo;2021-03-25 09:34:42&amp;rsquo; updated: &amp;lsquo;2021-03-25 09:34:42&amp;rsquo; tags: [mysql, 冷热分离, 大表优化, 千万级表优化] permalink: /articles/2021/03/25/1616636082398.html 业务场景一 曾经经历过供应链相关的架构优化，当时</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8/</link>
+      <link>https://tools.jackssybin.cn/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8/</guid>
       <description>title: 表数据量大读写缓慢如何优化【分库分表】 date: &amp;lsquo;2021-03-25 10:41:14&amp;rsquo; updated: &amp;lsquo;2021-03-25 10:42:15&amp;rsquo; tags: [mysql, 冷热分离, 大表优化, 千万级表优化] permalink: /articles/2021/03/25/1616640074000.html 一、业务场景三 为了便于理解，我们通过一个业务场</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E6%9F%A5%E8%AF%A2%E5%88%86%E7%A6%BB/</link>
+      <link>https://tools.jackssybin.cn/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E6%9F%A5%E8%AF%A2%E5%88%86%E7%A6%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E6%9F%A5%E8%AF%A2%E5%88%86%E7%A6%BB/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202103/%E8%A1%A8%E6%95%B0%E6%8D%AE%E9%87%8F%E5%A4%A7%E8%AF%BB%E5%86%99%E7%BC%93%E6%85%A2%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E6%9F%A5%E8%AF%A2%E5%88%86%E7%A6%BB/</guid>
       <description>title: 表数据量大读写缓慢如何优化【查询分离】 date: &amp;lsquo;2021-03-25 10:17:07&amp;rsquo; updated: &amp;lsquo;2021-03-25 10:17:07&amp;rsquo; tags: [mysql, 冷热分离, 大表优化, 千万级表优化] permalink: /articles/2021/03/25/1616638627630.html 业务场景二 某 SaaS 客服系统，系统里有一个工单查询功</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202104/springBatch%E7%9B%91%E6%8E%A7%E7%9B%B8%E5%85%B3/</link>
+      <link>https://tools.jackssybin.cn/posts/202104/springBatch%E7%9B%91%E6%8E%A7%E7%9B%B8%E5%85%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202104/springBatch%E7%9B%91%E6%8E%A7%E7%9B%B8%E5%85%B3/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202104/springBatch%E7%9B%91%E6%8E%A7%E7%9B%B8%E5%85%B3/</guid>
       <description>title: springBatch监控相关 date: &amp;lsquo;2021-04-21 09:18:35&amp;rsquo; updated: &amp;lsquo;2021-04-21 09:18:35&amp;rsquo; tags: [springBatch, prometheus, 自定义监控] permalink: /articles/2021/04/21/1618967915021.html Spring Boot Actuator可以帮助你监控和管理Spring Boot应用，比如健康</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202104/%E4%BD%BF%E7%94%A8ConditionalOnExpression%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E7%94%9F%E6%95%88/</link>
+      <link>https://tools.jackssybin.cn/posts/202104/%E4%BD%BF%E7%94%A8ConditionalOnExpression%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E7%94%9F%E6%95%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202104/%E4%BD%BF%E7%94%A8ConditionalOnExpression%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E7%94%9F%E6%95%88/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202104/%E4%BD%BF%E7%94%A8ConditionalOnExpression%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E7%94%9F%E6%95%88/</guid>
       <description>title: 使用@ConditionalOnExpression决定是否生效 date: &amp;lsquo;2021-04-21 10:45:05&amp;rsquo; updated: &amp;lsquo;2021-04-21 10:45:05&amp;rsquo; tags: [springbatch] permalink: /articles/2021/04/21/1618973105136.html @ConditionalOnExpression 根据表达式选择性加载 @ConditionalOnProperty 根据配置选择性加载 #消费者总开</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202105/springBoot%E5%90%AF%E5%8A%A8%E6%89%A9%E5%B1%95%E7%82%B9%E7%B2%BE%E6%9E%90/</link>
+      <link>https://tools.jackssybin.cn/posts/202105/springBoot%E5%90%AF%E5%8A%A8%E6%89%A9%E5%B1%95%E7%82%B9%E7%B2%BE%E6%9E%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202105/springBoot%E5%90%AF%E5%8A%A8%E6%89%A9%E5%B1%95%E7%82%B9%E7%B2%BE%E6%9E%90/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202105/springBoot%E5%90%AF%E5%8A%A8%E6%89%A9%E5%B1%95%E7%82%B9%E7%B2%BE%E6%9E%90/</guid>
       <description>title: springBoot启动扩展点精析 date: &amp;lsquo;2021-05-14 10:48:29&amp;rsquo; updated: &amp;lsquo;2021-05-14 10:48:29&amp;rsquo; tags: [springboot自动扩展, BeanFactoryAware] permalink: /articles/2021/05/14/1620960509044.html 1.背景 Spring的核心思想就是容器，当容器ref</description>
     </item>
     <item>
       <title></title>
-      <link>https://bioit.top/posts/202106/MySQLTransactionRR%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E4%B8%8B%E5%8A%A0%E9%94%81%E6%B5%8B%E8%AF%95/</link>
+      <link>https://tools.jackssybin.cn/posts/202106/MySQLTransactionRR%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E4%B8%8B%E5%8A%A0%E9%94%81%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bioit.top/posts/202106/MySQLTransactionRR%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E4%B8%8B%E5%8A%A0%E9%94%81%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://tools.jackssybin.cn/posts/202106/MySQLTransactionRR%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB%E4%B8%8B%E5%8A%A0%E9%94%81%E6%B5%8B%E8%AF%95/</guid>
       <description>title: MySQL Transaction&amp;ndash;RR事务隔离级别下加锁测试 date: &amp;lsquo;2021-06-08 09:47:41&amp;rsquo; updated: &amp;lsquo;2022-11-09 13:20:44&amp;rsquo; tags: [mysql, 死锁, 间隙锁, 加锁] permalink: /articles/2021/06/08/1623116860957.html ============================================================================== 按照非索引列更新 在可重复读的事务</description>
     </item>
   </channel>
