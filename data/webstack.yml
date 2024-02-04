@@ -72,10 +72,10 @@
       logo: hellogithub.png
       url: https://hellogithub.com/
       description: 让对开源项目感兴趣的人不再畏惧、让开源项目的发起者不再孤单
-    - title: hellogithub
-      logo: hellogithub.png
-      url: https://hellogithub.com/
-      description: 让对开源项目感兴趣的人不再畏惧、让开源项目的发起者不再孤单
+    - title: heapdump
+      logo: heapdump.png
+      url: https://heapdump.cn/
+      description: 学习性能知识、交流性能经验、寻求性能服务、招揽性能人才,有性能问题,上HeapDump性能社区。HeapDump性能社区是国内首个专注性能领域的技术社区,十几万开发者在这里讨论和分享JVM/Java/Linux操作
 
 - taxonomy: AI相关
   icon: fas fa-pencil-alt fa-lg
@@ -423,7 +423,11 @@
           url: https://sao.fm/
           logo: saofm.png
           description: 网络收音机
-
+        - title: 'saofm'
+          url: https://sao.fm/
+          logo: saofm.png
+          description: 网络收音机
+          
 
 - taxonomy: 网盘搜索
   icon: fa  
