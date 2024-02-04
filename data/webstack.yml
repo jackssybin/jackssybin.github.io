@@ -64,6 +64,11 @@
       logo: juejin.png
       url: https://juejin.cn/
       description: 掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务,打造一个激发开发者创作灵感,激励开发者沉淀分享,陪伴开发者成长的综合平台  
+    - title: CSDN
+      logo: csdn.png
+      url: https://www.csdn.net/
+      description: CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区 
+
 
 - taxonomy: AI相关
   icon: fas fa-pencil-alt fa-lg
