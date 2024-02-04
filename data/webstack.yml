@@ -143,6 +143,8 @@
           description: AI配音软件，轻松配出媲美真人的声音
 
 
+
+
 - taxonomy: 热门必备
   icon: fa fa-heart 
   list:
@@ -208,6 +210,10 @@
           url: https://toolwa.com/firework/
           logo: toolwacom.png
           description: 新年看场在线烟花吧~
+        - title: jdk官网相关bug相关查询
+          url: https://bugs.java.com/bugdatabase/
+          logo: bugsjava.png
+          description: 根据openjdk的官网发版记录https://wiki.openjdk.org/display/jdk8u 查看问题
 
 
 - taxonomy: 实用工具
@@ -423,11 +429,11 @@
           url: https://sao.fm/
           logo: saofm.png
           description: 网络收音机
-        - title: 'saofm'
-          url: https://sao.fm/
-          logo: saofm.png
-          description: 网络收音机
-          
+        - title: 在线图片抠图ai版本
+          url: https://www.fococlipping.com/
+          logo: fococlipping.png
+          description: FocoClipping官网,免费在线ai抠图工具网站,人工智能一键快
+
 
 - taxonomy: 网盘搜索
   icon: fa  
