@@ -77,6 +77,137 @@
       url: https://heapdump.cn/
       description: 学习性能知识、交流性能经验、寻求性能服务、招揽性能人才,有性能问题,上HeapDump性能社区。HeapDump性能社区是国内首个专注性能领域的技术社区,十几万开发者在这里讨论和分享JVM/Java/Linux操作
 
+
+- taxonomy: 个人提升
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 博客论坛
+      links:
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.jpg
+          description: 重新掌控你的新闻订阅源。
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.jpg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: 经管之家
+          url: https://bbs.pinggu.org/
+          logo: 经管之家.jpg
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: coolshell.png
+          description: 酷 壳 – CoolShell。   
+        - title: 美团技术团队
+          url: https://tech.meituan.com/
+          logo: techmeituan.png
+          description: 美团技术团队的博客，干货满满     
+        - title: Spring Boot中文导航
+          url: http://springboot.fun/
+          logo: springbootfun.png
+          description: 汇总了一些比较优秀的Spring Boot博客、开源作品等  
+        - title: Spring Cloud中文导航
+          url: https://springcloud.fun/
+          logo: springcloudfun.png
+          description: 汇总了一些比较优秀的Spring Cloud 博客、开源作品等                                    
+        # - title: Web前端导航
+        #   url: http://www.alloyteam.com/nav/
+        #   logo: ''
+        #   description: 比较全的Web前端导航，包括 团队组织 、开发社区 、 前端门户、框架类库 等等网站的导航。
+        - title: Spring For All
+          url: https://spring4all.com/
+          logo: spring4all.png
+          description: 目标是做最专业的的民间Sptng组织     
+        - title: 五分钟学算法
+          url: https://www.cxyxiaowu.com/
+          logo: cxyxiaowu.png
+          description: 程序员学习网站，收集了和程序员学习相关的各种教程和资料，致力于将数据结构与算法讲清楚                  
+        - title: 床长人工智能教程
+          url: https://www.captainbed.net/blog-neo/
+          logo: captainbed.png
+          description: 不搞人工智能也可以看看，写的很有意思的教程，可以作为科普看看
+        - title: Java技术驿站
+          url: http://cmsblogs.com/
+          logo: cmsblogs.png
+          description: 有很多不错的Java系列文章
+        - title: bugstack
+          url: https://bugstack.cn/
+          logo: bugstack.png
+          description: 博主是京东架构师，产出非常丰富，包括框架、源码、设计模式等                              
+
+
+    - term: 办公学习
+      links:
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。    
+        - title: 七夜导航
+          logo: qinight.png
+          url: https://nav.qinight.com/
+          description: 比较全的一个导航网站 
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 影音视频
+      links:
+        - title: 腾讯视频
+          logo: 腾讯视频.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: 优酷.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: 爱奇艺.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: 网易云音乐.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: 电影天堂（DYTT8）
+          logo: 电影天堂.png
+          url: https://www.dytt8.net/index.htm
+          description: 电影天堂（DYTT8），高清电影下载。
+        - title: 电影天堂（DYGOD）
+          logo: 电影天堂.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
+    # - term: 游戏竞技
+    #   links:
+    #     - title: 百度贴吧
+    #       logo: 百度贴吧.jpg
+    #       url: ttps://tieba.baidu.com/index.html
+    #       description: 百度贴吧。
+    #     - title: 台服战地
+    #       logo: 战地之王.png
+    #       url: https://ava.mangot5.com/ava/index
+    #       description: 台服 AVA 战地之王。
+ 
+
 - taxonomy: AI相关
   icon: fas fa-pencil-alt fa-lg
   list:
@@ -433,6 +564,10 @@
           url: https://www.fococlipping.com/
           logo: fococlipping.png
           description: FocoClipping官网,免费在线ai抠图工具网站,人工智能一键快
+        - title: 淘链客
+          url: https://www.taolinks.cc/
+          logo: taolinks.png
+          description: 外链资源聚合搜索引擎，搜索全网pdf资料
 
 
 - taxonomy: 网盘搜索
@@ -469,136 +604,7 @@
           logo: pikasotop.png
           description: 百度/阿里/蓝奏/天翼/夸克网站
 
-- taxonomy: 个人提升
-  icon: fas fa-flask fa-lg
-  list:
-
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: coolshell.png
-          description: 酷 壳 – CoolShell。   
-        - title: 美团技术团队
-          url: https://tech.meituan.com/
-          logo: techmeituan.png
-          description: 美团技术团队的博客，干货满满     
-        - title: Spring Boot中文导航
-          url: http://springboot.fun/
-          logo: springbootfun.png
-          description: 汇总了一些比较优秀的Spring Boot博客、开源作品等  
-        - title: Spring Cloud中文导航
-          url: https://springcloud.fun/
-          logo: springcloudfun.png
-          description: 汇总了一些比较优秀的Spring Cloud 博客、开源作品等                                    
-        # - title: Web前端导航
-        #   url: http://www.alloyteam.com/nav/
-        #   logo: ''
-        #   description: 比较全的Web前端导航，包括 团队组织 、开发社区 、 前端门户、框架类库 等等网站的导航。
-        - title: Spring For All
-          url: https://spring4all.com/
-          logo: spring4all.png
-          description: 目标是做最专业的的民间Sptng组织     
-        - title: 五分钟学算法
-          url: https://www.cxyxiaowu.com/
-          logo: cxyxiaowu.png
-          description: 程序员学习网站，收集了和程序员学习相关的各种教程和资料，致力于将数据结构与算法讲清楚                  
-        - title: 床长人工智能教程
-          url: https://www.captainbed.net/blog-neo/
-          logo: captainbed.png
-          description: 不搞人工智能也可以看看，写的很有意思的教程，可以作为科普看看
-        - title: Java技术驿站
-          url: http://cmsblogs.com/
-          logo: cmsblogs.png
-          description: 有很多不错的Java系列文章
-        - title: bugstack
-          url: https://bugstack.cn/
-          logo: bugstack.png
-          description: 博主是京东架构师，产出非常丰富，包括框架、源码、设计模式等                              
-
-
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。    
-        - title: 七夜导航
-          logo: qinight.png
-          url: https://nav.qinight.com/
-          description: 比较全的一个导航网站 
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
+  
       
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
