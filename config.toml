@@ -1,7 +1,7 @@
 baseURL               = "https://tools.jackssybin.cn/"
 languageCode          = "zh-CN"
 title                 = "jackssybin网址导航"
-theme                 = "WebStack-Hugo"
+theme                 = "WebStack-Hugo" # FixIt ,WebStack-Hugo
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true

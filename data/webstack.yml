@@ -209,7 +209,7 @@
  
 
 - taxonomy: AI相关
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-walking fa-lg
   list:
     - term: 热门AI工具
       links:
@@ -1050,7 +1050,7 @@
 
 
 - taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-tv fa-lg
   list: 
     - term: 资讯书籍
       links:
@@ -1098,35 +1098,35 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org          
+    # - term: 生物信息
+    #   links:
+    #     - title: NCBI
+    #       logo: ncbi.jpg
+    #       url: https://www.ncbi.nlm.nih.gov/
+    #       description: National Center for Biotechnology Information.
+    #     - title: Bioconda
+    #       logo: bioconda.jpg
+    #       url: https://anaconda.org/bioconda/
+    #       description: "Bioconda :: Anaconda.org."
+    #     - title: CPAN
+    #       logo: cpan.jpg
+    #       url: https://metacpan.org/
+    #       description: Search the CPAN.
+    #     - title: Gitter Galaxy
+    #       logo: gitter.jpg
+    #       url: https://gitter.im/galaxyproject
+    #       description: Galaxy Gitter Community.
+    #     - title: R Project
+    #       logo: r-project.jpg
+    #       url: https://www.r-project.org/
+    #       description: https://www.r-project.org
+    #     - title: Bioconductor
+    #       logo: bioconductor.jpg
+    #       url: http://www.bioconductor.org/
+    #       description: http://www.bioconductor.org          
 
 - taxonomy: AI学习
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-tree fa-lg
   list: 
     - term: AI导航
       links:
@@ -1217,7 +1217,7 @@
 
 
 - taxonomy: AI学习
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-tshirt fa-lg
   list:
     - term: 最新收录
       links:
@@ -1252,7 +1252,7 @@
           description: 面向产品经理的AI助手
 
 - taxonomy: AI学习
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-tint fa-lg
   list:
     - term: emptyGroup
       links:
