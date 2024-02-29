@@ -139,7 +139,10 @@
           url: https://bugstack.cn/
           logo: bugstack.png
           description: 博主是京东架构师，产出非常丰富，包括框架、源码、设计模式等                              
-
+        - title: 悟空聊架构
+          url: http://www.passjava.cn/
+          logo: passjava.png
+          description: 博主挺厉害的,内容挺全的
 
     - term: 办公学习
       links:
