@@ -76,7 +76,10 @@
       logo: heapdump.png
       url: https://heapdump.cn/
       description: 学习性能知识、交流性能经验、寻求性能服务、招揽性能人才,有性能问题,上HeapDump性能社区。HeapDump性能社区是国内首个专注性能领域的技术社区,十几万开发者在这里讨论和分享JVM/Java/Linux操作
-
+    - title: 即时通讯网
+      logo: 52im.png
+      url: http://www.52im.net/
+      description: 轻量级开源移动端即时通讯框架。 快速入门/性能/指南/常见问题
 
 - taxonomy: 个人提升
   icon: fas fa-flask fa-lg
