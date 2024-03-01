@@ -33,7 +33,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "assets/images/favicon.png"
+    favicon           = "assets/images/favicon.ico"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"
