@@ -80,6 +80,14 @@
       logo: 52im.png
       url: http://www.52im.net/
       description: 轻量级开源移动端即时通讯框架。 快速入门/性能/指南/常见问题
+    - title: gitdoc下的源码博客
+      logo: doocs.github.io.png.png
+      url: https://doocs.github.io/source-code-hunter/#/
+      description: gitdoc下的源码博客
+    - title: java全栈知识库
+      logo: doocs.github.io.png.png
+      url: https://pdai.tech/
+      description: java全栈知识库很全
 
 - taxonomy: 个人提升
   icon: fas fa-flask fa-lg
