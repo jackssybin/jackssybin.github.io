@@ -243,7 +243,7 @@
           description: AI图像和插画生成工具
 
         - title: 文心一言
-          url: https://yiyan.baidu.com/?utm_source=ai-bot.cn
+          url: https://yiyan.baidu.com
           logo: 文心一言.png
           description: 百度推出的基于文心大模型的AI对话互动工具
 
@@ -1148,6 +1148,10 @@
           url: https://ai-bot.cn/
           logo: ai-bot.cn.ico
           description: ai工具集   
+        - title: ai工具集2
+          url: https://www.ailookme.com/
+          logo: ailookme.png
+          description: ai工具集             
     - term: AI写作
       links:
         - title: 秘塔写作猫
