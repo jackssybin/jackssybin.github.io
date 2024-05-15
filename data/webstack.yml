@@ -370,6 +370,10 @@
           url: https://web.baimiaoapp.com/
           logo: webbaimiaoappcom.png
           description: 在线OCR文字识别
+        - title: '在线工具集合'
+          url: https://tool.lu
+          logo: toollu.png
+          description: 在线工具集合markdown          
         - title: 'toolspdf24org'
           url: https://tools.pdf24.org/zh/
           logo: toolspdf24org.png
